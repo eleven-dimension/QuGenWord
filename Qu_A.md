@@ -1,82 +1,93 @@
-abjure vt 放弃 [əb'dʒʊr] syn. abandon
+[toc]
+
+# A
+
+## abjure 
+
+vt 放弃 [əb'dʒʊr] 
+
+syn. abandon
 
 ab- 远离 -jure- 陪审团，宣誓 jury
 
 宣誓远离 -> 放弃
 
+### -jure
 
+#### adjure 
 
-adjure vt 恳求 [ə'dʒʊr]
+vt 恳求 [ə'dʒʊr]
 
 ad- 加强 加强宣誓 -> 恳求
 
-I **adjure** you to speak the truth.
+I **adjure** you to speak the truth.
 
+#### conjure 
 
-
-conjure vt 恳求 ['kʌndʒə]
+vt 恳求 ['kʌndʒə]
 
 con- 一起 一起宣誓 -> 恳求
 
 vi 变魔术
 
-Her grandfather taught her to **conjure**.
+Her grandfather taught her to **conjure**.
 
+#### perjure 
 
-
-perjure vt 作伪证 ['pɜːdʒə]
+vt 作伪证 ['pɜːdʒə]
 
 per- 1. through 2. away
 
 远离誓言 -> 作伪证
 
-She would rather **perjure** herself than admit to her sins.
+She would rather **perjure** herself than admit to her sins.
 
 n. perjury
 
+### 反义 支持
 
+#### espouse 
 
-antonym: espouse 支持 (vt)
+vt 支持 [ɪ'spaʊz]
 
 sp 发散，产生 
 
-spawn 产卵(vt, vi, n) spouse 夫妻
+spawn 产卵 vt vi n 
+
+spouse 夫妻
 
 夫妻支持 espouse
 
 夫妻产卵
 
+### 同义 放弃
 
-
-abjure syn:
-
-forgo, forego vt [fɔː'gəʊ]
+#### forgo
+#### forego 
+vt [fɔː'gəʊ]
 
 先走一步 -> 放弃
 
+#### forsake 
+[fə'seɪk] vt
 
-
-forsake [fə'seɪk] vt
-
-I still love him and I would never **forsake** him.
+I still love him and I would never **forsake** him.
 
 for the sake of 因为
 
 出于某原因放弃
 
+#### forswear 
+[fɔː'sweə] vt 宣誓放弃
 
 
-forswear [fɔː'sweə] vt 宣誓放弃
-
-
-
-renounce [rɪ'naʊns] vt 放弃权力信仰
+#### renounce 
+[rɪ'naʊns] vt 放弃权力信仰
 
 retire + announce
 
-
-
-reliquish  [rɪ'lɪŋkwɪʃ] vt
+#### reliquish
+[rɪ'lɪŋkwɪʃ] vt
 
 -ish 像xx一样
 
@@ -86,11 +97,12 @@ liqu link
 
 连回以前 -> 放弃（现在）
 
----
 
-abominate v 痛恨 syn. hate
+## abominate 
+v 痛恨 
+syn. hate
 
-All the teachers **abominate** cheating in examinations.
+All the teachers **abominate** cheating in examinations.
 
 
 
@@ -124,7 +136,7 @@ loathe vt [ləʊð]
 
 漏屎 -> 厌恶
 
-The two men **loathe** each other.
+The two men **loathe** each other.
 
 loath a. [ləʊθ] 不情愿的，厌恶的
 
@@ -136,11 +148,11 @@ loath 讨厌誓言
 
 abstain [əb'steɪn] vi 禁绝，放弃
 
-**Abstain** from sex or use condoms.
+**Abstain** from sex or use condoms.
 
 abstinence ['æbstɪnəns] n. 禁欲
 
-total **abstinence** from strong drink
+total **abstinence** from strong drink
 
 abst/absc 远离 (from ab-)
 
@@ -164,7 +176,7 @@ detain [dɪ'teɪn] vt
 
 de- 下 detain 留下来，扣留 
 
-We will not **detain** you any further.
+We will not **detain** you any further.
 
 
 
@@ -176,11 +188,11 @@ retain my advise 保留意见
 
 
 
-pertain  [pə'teɪn] vi
+pertain  [pə'teɪn] vi
 
 per- through，一直保持 -> 切题，相关
 
-His remark did not **pertain** to the question. 
+His remark did not **pertain** to the question. 
 
 sth pertain to sb = belong to 属于
 
@@ -192,7 +204,7 @@ distain [dɪs'teɪn] vt
 
 dis- 否定，否定某人保持的东西 -> 贬低声誉，弄脏，鄙视
 
-They **distain** the common life.
+They **distain** the common life.
 
 disdain [dɪs'deɪn] vt 蔑视 （同上）
 
@@ -206,21 +218,21 @@ acid，ace 扑克尖
 
 exacerbate [ɪg'zæsəbeɪt] vt 激化
 
-**exacerbate** the problem of the engine
+**exacerbate** the problem of the engine
 
 ex- 加强 加强酸 -> 激化
 
-acrid  ['ækrɪd] a. 尖刻
+acrid  ['ækrɪd] a. 尖刻
 
 id 形容词后缀 solid
 
-acrimonious  [,ækrɪ'məʊnɪəs] a. 尖刻
+acrimonious  [,ækrɪ'məʊnɪəs] a. 尖刻
 
 
 
-acme n. 顶点  ['ækmi]
+acme n. 顶点  ['ækmi]
 
-acne n. 粉刺  ['ækni]
+acne n. 粉刺  ['ækni]
 
 acumen n. 聪明，敏锐 [ækjʊmən]
 
@@ -230,7 +242,7 @@ acumen n. 聪明，敏锐 [ækjʊmən]
 
 acquiesce [,ækwɪ'es] vi 默许
 
-**acquiesce** in the decision
+**acquiesce** in the decision
 
 esce -> escent -> escence v. -> a. -> n. 逐渐
 
@@ -248,7 +260,7 @@ quiescent [kwɪ'ɛsnt] a. 静止的
 
 quietus [kwaɪ'iːtəs] n. 偿清债务（债务静止），死亡（生命的静止）
 
-The police gave the villain his **quietus**.
+The police gave the villain his **quietus**.
 
 
 
@@ -316,9 +328,9 @@ ept from expert，加强专家 = 熟练
 
 antonym:
 
-inept a. 无能的  [ɪ'nept]
+inept a. 无能的  [ɪ'nept]
 
-inapt a. 不合适  [ɪn'æpt]
+inapt a. 不合适  [ɪn'æpt]
 
 
 
@@ -332,11 +344,11 @@ adroit from drive，加强驱动，熟练
 
 
 
-adjacent  [ə'dʒeɪs(ə)nt] a. 邻近的
+adjacent  [ə'dʒeɪs(ə)nt] a. 邻近的
 
 be adjacent to
 
-**adjacent** rooms
+**adjacent** rooms
 
 jac/ject : throw (project，投射；ejaculate，射精)
 
@@ -360,7 +372,7 @@ conjecture [kən'dʒektʃə] v/n 猜测预测
 
 一起扔想法，猜测
 
-We can only **conjecture** about what was in the killer's mind.
+We can only **conjecture** about what was in the killer's mind.
 
 ejaculate 射精，女配合尖叫
 
@@ -386,7 +398,7 @@ journey，journal
 
 加强几天 = 宽限几天
 
-sojourn 短暂停留 ['sɒdʒɜːn] vi    
+sojourn 短暂停留 ['sɒdʒɜːn] vi    
 
 sub + jurn 留下来一段时间
 
@@ -408,7 +420,7 @@ adulterated wine 假酒
 
 adultery [ə'dʌlt(ə)rɪ] n 通奸
 
-adulate  ['ædjʊleɪt] vt 谄媚
+adulate  ['ædjʊleɪt] vt 谄媚
 
 成人三部曲
 
@@ -436,7 +448,7 @@ eff from ex 向外，工厂向外流，废液臭气
 
 fluctuate 波动 vi
 
-Prices **fluctuate** from year to year.
+Prices **fluctuate** from year to year.
 
 flux n. 流量，时间流逝，变迁，涨潮
 
@@ -452,7 +464,7 @@ well-off a. 小康的
 
 
 
-affront  [ə'frʌnt] vt 公开侮辱
+affront  [ə'frʌnt] vt 公开侮辱
 
 a 加强，加强在前面 = 公开侮辱
 
@@ -464,7 +476,7 @@ confront 面对
 
 be confronted with = be faced with
 
-effrontery  [ɪ'frʌnt(ə)rɪ] n. 厚颜无耻 shamelessness
+effrontery  [ɪ'frʌnt(ə)rɪ] n. 厚颜无耻 shamelessness
 
 ef 向外，向外面对，经常露脸 = 厚颜无耻
 
@@ -490,13 +502,13 @@ disabuse [,dɪsə'bjuːz] vt 改正
 
 让你不滥用 = 改正 
 
-peruse = read sth carefully  [pə'ruz]
+peruse = read sth carefully  [pə'ruz]
 
 per = through，一直用 = 精读
 
 
 
-allay [ə'leɪ] vt. 减轻缓和
+allay [ə'leɪ] vt. 减轻缓和
 
 生病躺lay一下，减轻病情
 
@@ -506,9 +518,9 @@ allay from alleviate
 
 lev 1. rise (elevator) 2. light，能举起，轻
 
-alleviate  [ə'liːvɪeɪt] vt 减轻
+alleviate  [ə'liːvɪeɪt] vt 减轻
 
-A number of measures were taken to **alleviate** the problem.
+A number of measures were taken to **alleviate** the problem.
 
 levity n 性格轻浮 反义 gravity
 
@@ -538,13 +550,13 @@ lurk vi 潜伏
 
 lurk from lower，降低身子
 
-Dangers **lurk** in the path of wilderness.
+Dangers **lurk** in the path of wilderness.
 
-**waylay** the ship at sea
+**waylay** the ship at sea
 
 
 
-aloof  [ə'luːf] a ad 冷淡疏远的
+aloof  [ə'luːf] a ad 冷淡疏远的
 
 stand aloof 
 
@@ -560,7 +572,7 @@ loof from leave
 
 aground 搁浅 a ad
 
-Our ship ran **aground** in the fog.
+Our ship ran **aground** in the fog.
 
 afoot 徒步的，在进行中的 a ad [ə'fʊt]
 
@@ -568,7 +580,7 @@ The project is **afoot**.
 
 alight 着火的 a ad
 
-Her eyes were **alight** with a girlish enjoyment of life.
+Her eyes were **alight** with a girlish enjoyment of life.
 
 akin 同族的 a ad 
 
@@ -596,7 +608,7 @@ off 远离
 
 
 
-altruism  ['æltruɪzəm] n. 利他主义
+altruism  ['æltruɪzəm] n. 利他主义
 
 all + true
 
@@ -608,11 +620,11 @@ egocentric a [,iɡo'sɛntrɪk] 自我中心的
 
 altr/alter = other 其他 
 
-alternative [ɔl'tɝnətɪv] a 二选一的
+alternative [ɔl'tɝnətɪv] a 二选一的
 
 alternate vi vt 交替，轮流
 
-altercate  ['ɔːltəkeɪt] vi 争吵
+altercate  ['ɔːltəkeɪt] vi 争吵
 
 c -> 吵chao
 
@@ -622,7 +634,7 @@ amalgam [ə'mælgəm] n 混合物
 
 amalgamate vi vt 混合联合
 
-These two universities will **amalgamate**.
+These two universities will **amalgamate**.
 
 am 和 am合并成一个(a) LG 公司
 
@@ -676,13 +688,13 @@ hush v/n 嘘
 
 
 
-amorous  ['æm(ə)rəs] a 爱慕的 多情的
+amorous  ['æm(ə)rəs] a 爱慕的 多情的
 
 amour n 爱慕
 
 from FR love
 
-They exchanged **amorous** glances 眉来眼去
+They exchanged **amorous** glances 眉来眼去
 
 
 
@@ -730,7 +742,7 @@ ambiguous a 模棱两可的
 
 gu 估计 估计两种 = 模棱两可
 
-ambivalent a 内心矛盾  [æm'bɪv(ə)l(ə)nt]
+ambivalent a 内心矛盾  [æm'bɪv(ə)l(ə)nt]
 
 val value 价值观 心中有两种价值观 = 内心矛盾的
 
@@ -740,13 +752,13 @@ dext right，右手
 
 两个右手，双手灵巧
 
-ambience n 周遭气氛  ['æmbɪəns]
+ambience n 周遭气氛  ['æmbɪəns]
 
 ambi 周围
 
 
 
-annihilate  [ə'naɪɪleɪt] vt 歼灭
+annihilate  [ə'naɪɪleɪt] vt 歼灭
 
 nihil 虚无 no hill
 
@@ -768,9 +780,9 @@ a 加强
 
 syn 消灭
 
-eliminate vt  [ɪ'lɪmɪneɪt] 消灭淘汰
+eliminate vt  [ɪ'lɪmɪneɪt] 消灭淘汰
 
-**eliminate** risk
+**eliminate** risk
 
 e 向外 limi form limit 限制
 
@@ -780,7 +792,7 @@ annotate ['ænəteɪt] v 注释
 
 -not- note = to mark
 
-Some people **annotate** as they read.
+Some people **annotate** as they read.
 
 notation n 符号
 
@@ -800,9 +812,9 @@ notorious a 臭名昭著的 [nə(ʊ)'tɔːrɪəs]
 
 
 
-antagonize  [æn'tæɡənaɪz] 敌对 vt
+antagonize  [æn'tæɡənaɪz] 敌对 vt
 
-I advise you not to **antagonize** him.
+I advise you not to **antagonize** him.
 
 ize - ist
 
@@ -820,7 +832,7 @@ ant 相反 相反行动
 
 
 
-agitate vt vi  ['ædʒɪteɪt] 煽动
+agitate vt vi  ['ædʒɪteɪt] 煽动
 
 ag 行动
 
@@ -840,7 +852,7 @@ cogitate on sth
 
 cogitate the problem
 
-cogent a 有说服力的 ['kəʊdʒ(ə)nt] persuasive
+cogent a 有说服力的 ['kəʊdʒ(ə)nt] persuasive
 
 有驱动力
 
@@ -866,9 +878,9 @@ aquatic [ə'kwætɪk] a 水生的
 
 aqua = water 阿库娅
 
-aquarium 水族馆  [ə'kweərɪəm] n
+aquarium 水族馆  [ə'kweərɪəm] n
 
-Aquarius 水瓶座 [ə'kwεəriəs] n
+Aquarius 水瓶座 [ə'kwεəriəs] n
 
 
 
@@ -876,7 +888,7 @@ aqueous ['eɪkwɪəs] a 水的
 
 ous 充满了
 
-opaque a 不透明的  [ə(ʊ)'peɪk]
+opaque a 不透明的  [ə(ʊ)'peɪk]
 
 op from ob 1. 加强 2. against 相反 
 
@@ -900,7 +912,7 @@ arboreal a 树栖的
 
 
 
-ardent 热情的 ['ɑːd(ə)nt] a
+ardent 热情的 ['ɑːd(ə)nt] a
 
 ard/ars from ash = 火的
 
@@ -936,7 +948,7 @@ perfervid a 非常热情的 [pə'fɜːvɪd]
 
 
 
-arrant  ['ær(ə)nt] a 臭名昭著的
+arrant  ['ær(ə)nt] a 臭名昭著的
 
 notorious syn
 
@@ -966,7 +978,7 @@ fragrant 芳香的 flower
 
 
 
-articulate  [ɑ:'tɪkjʊleɪt] a vt vi 清晰地表达
+articulate  [ɑ:'tɪkjʊleɪt] a vt vi 清晰地表达
 
 article 文章，清楚表达
 
@@ -996,7 +1008,7 @@ party + san
 
 
 
-ascetic [ə'setɪk] a n 苦行的 禁欲者
+ascetic [ə'setɪk] a n 苦行的 禁欲者
 
 athletic [æθ'letɪk] a 运动员的
 
@@ -1018,13 +1030,13 @@ syn 禁欲的
 
 abstemious a [əb'stiːmɪəs]
 
-abstinence n ['æbstɪnəns]
+abstinence n ['æbstɪnəns]
 
 from abstain
 
 
 
-askew  [ə'skju] a 歪斜的
+askew  [ə'skju] a 歪斜的
 
 ask + we 挂东西，问我们歪没
 
@@ -1048,11 +1060,11 @@ sp 发散 spread
 
 wr：
 
-wrath n 暴怒  [ræθ]
+wrath n 暴怒  [ræθ]
 
 心情扭曲
 
-wrangle v 口角争吵  ['ræŋɡl]
+wrangle v 口角争吵  ['ræŋɡl]
 
 angle 角
 
@@ -1098,9 +1110,9 @@ syn 贪婪的
 
 voracious [və'reɪʃəs] a 贪吃的
 
-veracious  [və'reɪʃəs] a 真诚的
+veracious  [və'reɪʃəs] a 真诚的
 
-covet vt 垂涎 ['kʌvɪt]
+covet vt 垂涎 ['kʌvɪt]
 
 
 
@@ -1158,7 +1170,7 @@ subvert v 从底下转变 颠覆破坏
 
 
 
-adverse a 相反的 敌对的 ['ædvɜːs]
+adverse a 相反的 敌对的 ['ædvɜːs]
 
 adverse circumstance 
 
@@ -1214,7 +1226,7 @@ avi bird
 
 aviation n 航空学 [eɪvɪ'eɪʃ(ə)n]
 
-aviator n 飞行员 ['eɪvɪeɪtə]
+aviator n 飞行员 ['eɪvɪeɪtə]
 
 
 
@@ -1222,7 +1234,7 @@ auspicious a 吉祥的 [ɔː'spɪʃəs]
 
 诺亚方舟 鸟 生命 吉祥
 
-augury n 征兆 占卜  ['ɔːgjʊrɪ]
+augury n 征兆 占卜  ['ɔːgjʊrɪ]
 
 au 鸟 avi
 
@@ -1236,7 +1248,7 @@ spectator 观众
 
 
 
-avow 公开承认 [ə'vaʊ] vt
+avow 公开承认 [ə'vaʊ] vt
 
 avow from aver 
 
@@ -1260,7 +1272,7 @@ confess 坦白
 
 vow from voice 宣誓
 
-反 disavow deny [dɪsə'vaʊ]
+反 disavow deny [dɪsə'vaʊ]
 
 
 
@@ -1281,5 +1293,4 @@ convoke v 喊到一起 = 召集开会
 invoke v 深入喊 = 恳求
 
 evoke v 喊出来 = 唤醒
-
 
