@@ -4,9 +4,9 @@
       - [adjure](#adjure)
       - [conjure](#conjure)
       - [perjure](#perjure)
-    + [反义 支持](#-----)
+    + [ANT](#ant)
       - [espouse](#espouse)
-    + [同义 放弃](#-----)
+    + [SYN](#syn)
       - [forgo](#forgo)
       - [forego](#forego)
       - [forsake](#forsake)
@@ -14,7 +14,7 @@
       - [renounce](#renounce)
       - [reliquish](#reliquish)
   * [abominate](#abominate)
-    + [同义 厌恶](#-----)
+    + [SYN](#syn-1)
       - [abhor](#abhor)
       - [detest](#detest)
       - [loathe](#loathe)
@@ -43,20 +43,20 @@
       - [quiescent](#quiescent)
       - [quietus](#quietus)
   * [acquittal](#acquittal)
-    + [反义 宣判有罪](#-------)
+    + [ANT](#ant-1)
       - [convict](#convict)
   * [addle](#addle)
-    + [同义 使困惑](#------)
+    + [SYN](#syn-2)
       - [confuse](#confuse)
       - [baffle](#baffle)
       - [bewilder](#bewilder)
   * [adept](#adept)
-    + [形近](#--)
+    + [SIMILAR](#similar)
       - [adopt](#adopt)
       - [adapt](#adapt)
       - [adept](#adept-1)
-    + [反义](#--)
-    + [同义 熟练](#-----)
+    + [ANT](#ant-2)
+    + [SYN](#syn-3)
       - [deft](#deft)
       - [adroit](#adroit)
   * [adjacent](#adjacent)
@@ -66,14 +66,14 @@
       - [abject](#abject)
       - [conjecture](#conjecture)
       - [ejaculate](#ejaculate)
-    + [同义 邻近](#-----)
+    + [SYN](#syn-4)
   * [adjourn](#adjourn)
     + [-jour-](#-jour-)
       - [sojourn](#sojourn)
       - [diurnal](#diurnal)
       - [nocturnal](#nocturnal)
   * [adulterate](#adulterate)
-    + [形近](#---1)
+    + [SIMILAR](#similar-1)
       - [adultery](#adultery)
       - [adulate](#adulate)
   * [affluence](#affluence)
@@ -84,31 +84,31 @@
       - [flux](#flux)
       - [influx](#influx)
       - [effluvial](#effluvial)
-    + [同义 小康](#-----)
+    + [SYN](#syn-5)
   * [affront](#affront)
     + [front-](#front-)
       - [confront](#confront)
       - [effrontery](#effrontery)
-    + [同义 侮辱，辱骂](#--------)
+    + [SYN](#syn-6)
       - [revile](#revile)
       - [vilify](#vilify)
       - [abuse](#abuse)
   * [allay](#allay)
     + [lev-](#lev-)
-      - [alleviate  [ə'liːvɪeɪt] vt 减轻](#alleviate-----li-v-e-t--vt---)
+      - [alleviate](#alleviate)
       - [levity](#levity)
       - [levy](#levy)
-    + [形近](#---2)
+    + [SIMILAR](#similar-2)
       - [slay](#slay)
       - [flay](#flay)
       - [waylay](#waylay)
   * [aloof](#aloof)
-    + [a + 形动](#a-----)
+    + [SIMILAR](#similar-3)
       - [aground](#aground)
       - [afoot](#afoot)
       - [alight](#alight)
       - [akin](#akin)
-    + [同义 冷淡](#-----)
+    + [SYN](#syn-7)
       - [apathy](#apathy)
       - [frigid](#frigid)
       - [offish](#offish)
@@ -118,10 +118,10 @@
       - [alternate](#alternate)
       - [altercate](#altercate)
   * [amalgam](#amalgam)
-    + [同义 混合联合](#-------)
+    + [SYN](#syn-8)
       - [coalesce](#coalesce)
   * [ambush](#ambush)
-    + [形近](#---3)
+    + [SIMILAR](#similar-4)
       - [lush](#lush)
       - [blush](#blush)
       - [plush](#plush)
@@ -147,7 +147,7 @@
       - [null](#null)
       - [nullify](#nullify)
       - [annul](#annul)
-    + [同义 消灭](#-----)
+    + [SYN](#syn-9)
       - [eliminate](#eliminate)
   * [annotate](#annotate)
     + [not-](#not-)
@@ -161,7 +161,7 @@
       - [cogitate](#cogitate)
       - [cogent](#cogent)
       - [exigent](#exigent)
-    + [反义 反派](#-----)
+    + [ANT](#ant-3)
   * [aquatic](#aquatic)
     + [aqua-](#aqua-)
       - [aqueous](#aqueous)
@@ -178,7 +178,7 @@
       - [ardor](#ardor)
       - [arson](#arson)
       - [arsonist](#arsonist)
-    + [同义 热情](#-----)
+    + [SYN](#syn-10)
       - [fervid](#fervid)
       - [fervent](#fervent)
       - [perfervid](#perfervid)
@@ -189,7 +189,7 @@
       - [inerrancy](#inerrancy)
       - [erratic](#erratic)
       - [aberrant](#aberrant)
-    + [同义 名声不好](#-------)
+    + [SYN](#syn-11)
   * [articulate](#articulate)
     + [art](#art)
       - [artifact](#artifact)
@@ -197,14 +197,14 @@
       - [artless](#artless)
       - [artisan](#artisan)
   * [ascetic](#ascetic)
-    + [反义 纵欲的](#------)
+    + [ANT](#ant-4)
       - [libertine](#libertine)
       - [indulgent](#indulgent)
-    + [同义 禁欲的](#------)
+    + [SYN](#syn-12)
       - [abstemious](#abstemious)
       - [abstinence](#abstinence)
   * [askew](#askew)
-    + [同义 歪](#----)
+    + [SYN](#syn-13)
       - [awry](#awry)
     + [wr-](#wr-)
       - [wrath](#wrath)
@@ -212,15 +212,15 @@
       - [wreak](#wreak)
       - [writhe](#writhe)
       - [wriggle](#wriggle)
-    + [七宗罪](#---)
-  * [avaricious [ævə'rɪʃəs] a 贪婪的](#avaricious---v--r---s--a----)
-    + [同义 贪婪的](#------)
+    + [Seven Deadly Sins](#seven-deadly-sins)
+  * [avaricious](#avaricious)
+    + [SYN](#syn-14)
       - [voracious](#voracious)
       - [covet](#covet)
       - [covetous](#covetous)
-  * [avert [ə'vɜːt]](#avert----v--t-)
-    + [形近](#---4)
-      - [avert](#avert)
+  * [avert](#avert)
+    + [SIMILAR](#similar-5)
+      - [avert](#avert-1)
       - [advert](#advert)
       - [revert](#revert)
       - [divert](#divert)
@@ -240,7 +240,7 @@
       - [vertigo](#vertigo)
       - [vertex](#vertex)
       - [vortex](#vortex)
-    + [派生](#--)
+    + [DERIVATION](#derivation)
   * [aviary](#aviary)
     + [avi-](#avi-)
       - [aviation](#aviation)
@@ -248,10 +248,10 @@
       - [auspicious](#auspicious)
       - [augury](#augury)
   * [avow](#avow)
-    + [同义 承认](#-----)
+    + [SYN](#syn-15)
       - [admit](#admit)
       - [acknowledge](#acknowledge)
-      - [confess 坦白](#confess---)
+      - [confess](#confess)
     + [voc-](#voc-)
       - [vocal](#vocal)
       - [equivocal](#equivocal)
@@ -261,7 +261,8 @@
       - [convoke](#convoke)
       - [invoke](#invoke)
       - [evoke](#evoke)
-      
+
+
 # A
 
 ## abjure 
@@ -306,7 +307,9 @@ She would rather **perjure** herself than admit to her sins.
 
 n. perjury
 
-### 反义 支持
+### ANT
+
+支持
 
 #### espouse 
 
@@ -322,7 +325,9 @@ spouse 夫妻
 
 夫妻产卵
 
-### 同义 放弃
+### SYN
+
+放弃
 
 #### forgo
 #### forego 
@@ -372,7 +377,9 @@ omen - Amen 祷告，阿门
 
 omen - ominous ['ɒmɪnəs] a.
 
-### 同义 厌恶
+### SYN
+
+讨厌
 
 #### abhor
 vt 厌恶
@@ -539,7 +546,10 @@ acquit sb of sth
 
 acquit sb of murder
 
-### 反义 宣判有罪
+### ANT
+
+宣判有罪
+
 #### convict 
 (一起胜利，一起征服，宣判有罪)
 
@@ -555,7 +565,9 @@ addle my brain
 
 addled eggs
 
-### 同义 使困惑
+### SYN
+
+使困惑
 
 #### confuse
 
@@ -579,7 +591,7 @@ a. 熟练的
 
 ad 加强
 
-### 形近
+### SIMILAR
 #### adopt
 
 opt 选择 (option)，加强选择 = 采取
@@ -595,14 +607,14 @@ apt 恰当的 (缩写appropriate [ə'prəʊprɪət])，易于
 ept from expert，加强专家 = 熟练
 
 
-### 反义
+### ANT
 
 inept a. 无能的  [ɪ'nept]
 
 inapt a. 不合适  [ɪn'æpt]
 
 
-### 同义 熟练
+### SYN
 a. 熟练的
 
 #### deft 
@@ -653,7 +665,9 @@ We can only **conjecture** about what was in the killer's mind.
 #### ejaculate 
 射精，女配合尖叫
 
-### 同义 邻近
+### SYN
+
+邻近
 
 A abut on B
 
@@ -696,7 +710,7 @@ adulterate rice with sand
 
 adulterated wine 假酒
 
-### 形近
+### SIMILAR
 #### adultery 
 [ə'dʌlt(ə)rɪ] n 通奸
 
@@ -744,8 +758,10 @@ n. 向里流，流入
 #### effluvial
 effluvia - effluvial a. 恶臭的
 
+### SYN
 
-### 同义 小康
+小康
+
 well-to-do a. 小康的
 
 well-off a. 小康的
@@ -771,7 +787,9 @@ be confronted with = be faced with
 
 ef 向外，向外面对，经常露脸 = 厚颜无耻
 
-### 同义 侮辱，辱骂
+### SYN
+
+侮辱，辱骂
 
 #### revile 
 [rɪ'vaɪl] vt
@@ -806,7 +824,8 @@ allay from alleviate
 ### lev-
 lev 1. rise (elevator) 2. light，能举起，轻
 
-#### alleviate  [ə'liːvɪeɪt] vt 减轻
+#### alleviate  
+[ə'liːvɪeɪt] vt 减轻
 
 A number of measures were taken to **alleviate** the problem.
 
@@ -820,7 +839,7 @@ levy 反 rescind 取消废除
 
 rescind from scissors，剪掉税 vt
 
-### 形近
+### SIMILAR
 
 #### slay 
 死嘞 = 杀死，vt =kill （from slaughter）slay-slew-slain
@@ -858,7 +877,9 @@ a + 形或动 = 副词 aloud，alive
 
 loof from leave
 
-### a + 形动
+### SIMILAR
+
+a + 形动
 
 #### aground 
 搁浅 a ad
@@ -880,10 +901,12 @@ Her eyes were **alight** with a girlish enjoyment of life.
 
 kin kindred
 
-### 同义 冷淡
+### SYN
+
+疏远的
 
 #### apathy 
-n
+n 无感
 
 a 否定 path 情感
 
@@ -939,7 +962,9 @@ am + alg + am
 
 an amalgam of democracy and freedom
 
-### 同义 混合联合
+### SYN
+
+联合
 
 #### coalesce 
 [,kəʊə'les] v 联合合并
@@ -958,7 +983,7 @@ am from im，进入
 syn waylay lurk
 
 
-### 形近
+### SIMILAR
 #### lush 
 a 繁茂 
 
@@ -1088,7 +1113,9 @@ vt [ə'nʌl] 取消
 
 a 加强
 
-### 同义 消灭
+### SYN
+
+消灭
 
 #### eliminate 
 vt  [ɪ'lɪmɪneɪt] 消灭淘汰
@@ -1176,7 +1203,9 @@ ex 向外
 
 向外出动 = 紧急出动
 
-### 反义 反派
+### ANT
+
+反派
 
 opponent
 
@@ -1254,7 +1283,9 @@ n 纵火
 #### arsonist 
 n 纵火犯
 
-### 同义 热情
+### SYN
+
+热情的
 
 #### fervid 
 a 热情的 ['fɜːvɪd]
@@ -1295,7 +1326,9 @@ a 古怪 n 怪人
 #### aberrant
 aberrant = abnormal a 异端的
 
-### 同义 名声不好
+### SYN
+
+名声不好
 
 flagrant 名声不好 l 搅屎棍
 
@@ -1339,7 +1372,9 @@ athletic [æθ'letɪk] a 运动员的
 
 运动员比赛前禁欲保存体力
 
-### 反义 纵欲的
+### ANT
+
+纵欲的
 
 #### libertine 
 a. liberty ['lɪbətiːn]
@@ -1351,7 +1386,9 @@ in 否定 dull 无趣
 
 否定无趣 = 纵欲
 
-### 同义 禁欲的
+### SYN
+
+禁欲的
 
 #### abstemious 
 a [əb'stiːmɪəs]
@@ -1366,7 +1403,9 @@ from abstain
 
 ask + we 挂东西，问我们歪没
 
-### 同义 歪
+### SYN 
+
+歪
 
 #### awry 
 [ə'raɪ] a ad
@@ -1406,8 +1445,9 @@ writhe in pain
 #### wriggle 
 v 蠕动
 
+### Seven Deadly Sins
 
-### 七宗罪
+七宗罪
 
 pride greed lust envy
 
@@ -1419,7 +1459,8 @@ gluttonous a. ['glʌtnəs]
 
 glutinous a. glue 胶水一样的，粘稠的
 
-## avaricious [ævə'rɪʃəs] a 贪婪的
+## avaricious 
+[ævə'rɪʃəs] a 贪婪的
 
 avarice n ['æv(ə)rɪs]
 
@@ -1429,7 +1470,9 @@ av = greed
 
 avid a 狂热的
 
-### 同义 贪婪的
+### SYN
+
+贪婪的
 
 #### voracious
 voracious [və'reɪʃəs] a 贪吃的
@@ -1460,7 +1503,8 @@ overt 明显的
 
 c 包围 一起 cage car core
 
-## avert [ə'vɜːt] 
+## avert 
+[ə'vɜːt] 
 v 回避
 
 avert one's eyes
@@ -1474,7 +1518,7 @@ convert
 anniversary 年轮回
 
 
-### 形近
+### SIMILAR
 
 #### avert 
 v
@@ -1548,7 +1592,7 @@ vert转 go 走 边走边转 晕
 o 像漩涡
 
 
-### 派生
+### DERIVATION
 adversary n 对手
 
 adversity n 逆境
@@ -1593,13 +1637,17 @@ veracious
 
 verisimilar
 
-### 同义 承认
+### SYN
+
+承认
 
 #### admit
 
 #### acknowledge
 
-#### confess 坦白
+#### confess 
+
+坦白
 
 vow from voice 宣誓
 
