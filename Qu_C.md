@@ -489,3 +489,188 @@ post 之后
 
 am pm: ante meridiem, post meridiem
 
+## chastise
+
+vt [tʃæ'staɪz] 惩罚
+
+谐音 插死他 
+
+syn chasten  ['tʃeɪs(ə)n] vt 惩罚
+
+chast/cast = pure
+
+使干净 = 惩罚错误和恶习
+
+### cast-
+
+#### chaste
+
+a 纯洁的 贞洁的
+
+#### caste
+
+n [kɑːst] 阶级
+
+阶级内纯种 
+
+谐音 卡死他
+
+#### castigate
+
+vt  ['kæstɪgeɪt] 
+
+谴责 = censure
+
+严惩 = chasten = chastise
+
+cast 扔 i 我 gate 门口
+
+扔我到门口 = 谴责
+
+#### overcast
+
+a 阴天的，阴郁的
+
+over 向上 抬头一看，天阴沉沉的
+
+It is overcast today.
+
+#### downcast
+
+a 沮丧的
+
+往下扔 syn depressed deject
+
+#### outcast
+
+a 被逐出的 n 流浪的人
+
+往外扔
+
+## chauvinism
+
+n ['ʃəʊv(ɪ)nɪz(ə)m] 沙文主义 侵略主义
+
+音译词
+
+#### male chauvinism
+
+大男子主义
+
+#### jingoism
+
+n ['dʒɪŋɡoɪzəm] 金戈主义，侵略主义，沙文主义
+
+## chivalrous
+
+a ['ʃɪv(ə)lrəs] 侠义的，有骑士精神的
+
+val strong 强壮
+
+保持很强壮 = 侠义的
+
+### val-
+
+strong，强健勇敢
+
+#### cavalier
+
+n [,kævə'lɪə] 骑士 NBA
+
+#### valiant
+
+a ['vælɪənt] 骁勇善战的 syn gallant
+
+#### valor
+
+n 英勇 ['vælə]
+
+#### convalesce
+
+vi [,kɒnvə'les] 逐渐康复
+
+逐渐恢复强壮
+
+#### invalid
+
+a 无效的 [ɪn'vælɪd]
+
+n 不强壮 = 病人 ['ɪnvəlɪd]
+
+### SYN
+
+#### knight
+
+n 骑士
+
+#### knightly
+
+a 骑士精神
+
+## choreography
+
+n [,kɒrɪ'ɒgrəfɪ] 编舞
+
+chore 1.唱歌 2.跳舞
+
+graphy 写 如电报telegraph
+
+### chore-
+
+#### choir
+
+n 唱诗班 ['kwaɪə]
+
+#### chorus
+
+n 合唱队 ['kɔːrəs]
+
+## circumlocution
+
+n [,sɜːkəmlə'kjuːʃ(ə)n] 婉转曲折的说法
+
+circum from circle 圈 loc 说 绕圈说话
+
+loc/log/loqu 说
+
+### loc-
+
+#### loquacious 
+
+a 话多的 [lə'kweɪʃəs]
+
+#### obloquy
+
+n 诽谤 ['ɒbləkwɪ]
+
+ob 加强/相反
+
+相反说
+
+#### colloquy
+
+n ['kɒləkwɪ] 谈话
+
+co 一起
+
+一起说
+
+#### soliloquy
+
+n [sə'lɪləkwɪ] 独白，自言自语
+
+sol 单一 
+
+单独说
+
+#### eloquent
+
+a ['eləkwənt] 健谈的
+
+向外说
+
+#### interlocution
+
+n [,ɪntələʊ'kjuːʃən] 对话
+
+之间说
