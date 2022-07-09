@@ -1,4 +1,224 @@
-[toc]
+- [cacophonous](#cacophonous)
+  * [phon-](#phon-)
+    + [euphonious](#euphonious)
+    + [phonograph](#phonograph)
+    + [symphony](#symphony)
+- [callous](#callous)
+- [calumniate](#calumniate)
+  * [SYN](#syn)
+    + [slander](#slander)
+    + [libel](#libel)
+- [camouflage](#camouflage)
+  * [SYN](#syn-1)
+    + [masquerade](#masquerade)
+- [cantankerous](#cantankerous)
+  * [SYN](#syn-2)
+    + [peevish](#peevish)
+    + [irascible](#irascible)
+    + [crabbed](#crabbed)
+    + [waspish](#waspish)
+    + [bilious](#bilious)
+    + [liverish](#liverish)
+- [canvass](#canvass)
+- [captious](#captious)
+  * [cap-](#cap-)
+    + [cape](#cape)
+    + [caption](#caption)
+    + [precipice](#precipice)
+    + [captivate](#captivate)
+    + [capitulate](#capitulate)
+    + [carp](#carp)
+    + [cavil](#cavil)
+  * [SYN](#syn-3)
+    + [finicky](#finicky)
+    + [fastidious](#fastidious)
+- [cardinal](#cardinal)
+  * [cord-](#cord-)
+    + [cordial](#cordial)
+    + [cardiac](#cardiac)
+    + [cardiologist](#cardiologist)
+    + [concord](#concord)
+    + [discord](#discord)
+- [carnage](#carnage)
+  * [carn-](#carn-)
+    + [carnal](#carnal)
+    + [carcass](#carcass)
+    + [reincarnate](#reincarnate)
+  * [SYN](#syn-4)
+    + [slay](#slay)
+    + [slaughter](#slaughter)
+    + [massacre](#massacre)
+    + [assassinate](#assassinate)
+    + [execute](#execute)
+    + [lynch](#lynch)
+    + [holocaust](#holocaust)
+- [cataclysm](#cataclysm)
+  * [SYN](#syn-5)
+    + [catastrophe](#catastrophe)
+    + [calamity](#calamity)
+- [censorious](#censorious)
+  * [SIMILAR](#similar)
+    + [censor](#censor)
+    + [censure](#censure)
+    + [census](#census)
+    + [censensus](#censensus)
+- [cession](#cession)
+  * [cede-](#cede-)
+    + [cede](#cede)
+    + [recede](#recede)
+    + [concede](#concede)
+    + [accede](#accede)
+    + [precede](#precede)
+    + [intercede](#intercede)
+    + [secede](#secede)
+    + [antecede](#antecede)
+- [chastise](#chastise)
+  * [cast-](#cast-)
+    + [chaste](#chaste)
+    + [caste](#caste)
+    + [castigate](#castigate)
+    + [overcast](#overcast)
+    + [downcast](#downcast)
+    + [outcast](#outcast)
+- [chauvinism](#chauvinism)
+    + [male chauvinism](#male-chauvinism)
+    + [jingoism](#jingoism)
+- [chivalrous](#chivalrous)
+  * [val-](#val-)
+    + [cavalier](#cavalier)
+    + [valiant](#valiant)
+    + [valor](#valor)
+    + [convalesce](#convalesce)
+    + [invalid](#invalid)
+  * [SYN](#syn-6)
+    + [knight](#knight)
+    + [knightly](#knightly)
+- [choreography](#choreography)
+  * [chore-](#chore-)
+    + [choir](#choir)
+    + [chorus](#chorus)
+- [circumlocution](#circumlocution)
+  * [loc-](#loc-)
+    + [loquacious](#loquacious)
+    + [obloquy](#obloquy)
+    + [colloquy](#colloquy)
+    + [soliloquy](#soliloquy)
+    + [eloquent](#eloquent)
+    + [interlocution](#interlocution)
+- [clairvoyance](#clairvoyance)
+- [clement](#clement)
+- [cogitate](#cogitate)
+  * [ag-](#ag-)
+    + [agitate](#agitate)
+  * [SYN](#syn-7)
+    + [deliberate](#deliberate)
+    + [contemplate](#contemplate)
+    + [ruminate](#ruminate)
+    + [ponder](#ponder)
+- [coltish](#coltish)
+  * [SIMILAR](#similar-1)
+    + [colt](#colt)
+    + [jolt](#jolt)
+    + [molt](#molt)
+    + [dolt](#dolt)
+- [combustible](#combustible)
+  * [SYN](#syn-8)
+    + [inflammable](#inflammable)
+    + [ignite](#ignite)
+- [commensurate](#commensurate)
+  * [SYN](#syn-9)
+    + [tantamount](#tantamount)
+    + [congruent](#congruent)
+  * [SIMILAR](#similar-2)
+    + [commemorate](#commemorate)
+    + [consummate](#consummate)
+- [complacent](#complacent)
+  * [SIMILAR](#similar-3)
+    + [complaisant](#complaisant)
+- [conciliation](#conciliation)
+  * [cili-](#cili-)
+    + [reconcile](#reconcile)
+    + [supercilious](#supercilious)
+- [condiment](#condiment)
+    + [recondite](#recondite)
+- [confide](#confide)
+  * [fid-](#fid-)
+    + [confidant](#confidant)
+    + [diffident](#diffident)
+    + [fidelity](#fidelity)
+    + [perfidious](#perfidious)
+    + [defy](#defy)
+- [constrict](#constrict)
+  * [strict-](#strict-)
+    + [astrict](#astrict)
+    + [constrain](#constrain)
+    + [restrain](#restrain)
+  * [SYN](#syn-10)
+  * [press-](#press-)
+    + [oppress](#oppress)
+    + [suppress](#suppress)
+    + [repress](#repress)
+- [contiguity](#contiguity)
+  * [tact-](#tact-)
+    + [tact](#tact)
+    + [intact](#intact)
+    + [tangle](#tangle)
+    + [tangible](#tangible)
+    + [contagion](#contagion)
+    + [entangle](#entangle)
+  * [SYN](#syn-11)
+    + [proximity](#proximity)
+- [contumacy](#contumacy)
+  * [tum-](#tum-)
+    + [contumely](#contumely)
+    + [tumid](#tumid)
+    + [tumult](#tumult)
+- [conundrum](#conundrum)
+  * [SYN](#syn-12)
+    + [enigma](#enigma)
+- [convict](#convict)
+    + [conviction](#conviction)
+  * [vict-](#vict-)
+    + [evict](#evict)
+    + [evince](#evince)
+    + [invincible](#invincible)
+    + [vanquish](#vanquish)
+- [convivial](#convivial)
+  * [vivi-](#vivi-)
+    + [vivacious](#vivacious)
+    + [vivify](#vivify)
+    + [vitality](#vitality)
+    + [vitalize](#vitalize)
+- [corporate](#corporate)
+  * [corpor-](#corpor-)
+    + [incorporate](#incorporate)
+    + [corpulent](#corpulent)
+    + [corporeal](#corporeal)
+    + [corpse](#corpse)
+- [cosmic](#cosmic)
+  * [cosm-](#cosm-)
+    + [cosmopolitan](#cosmopolitan)
+    + [insular](#insular)
+- [craven](#craven)
+    + [cringe](#cringe)
+    + [cavern](#cavern)
+    + [fringe](#fringe)
+- [crusade](#crusade)
+  * [cru-](#cru-)
+    + [crucial](#crucial)
+    + [crux](#crux)
+    + [crucify](#crucify)
+- [curt](#curt)
+    + [curb](#curb)
+  * [ANT](#ant)
+    + [goad](#goad)
+- [cynic](#cynic)
+    + [cynical](#cynical)
+    + [cynicism](#cynicism)
+  * [SYN](#syn-13)
+    + [unbelieving](#unbelieving)
+    + [sarcastic](#sarcastic)
+    
 ## cacophonous
 
 a [kə'kɒfənəs] 发音不和谐的
@@ -332,6 +552,8 @@ v 转生 [,riːɪn'kɑːneɪt]
 v 另 屠宰牲畜
 
 #### massacre
+
+n/v [ˈmæsəkə]
 
 大量死在一英亩里
 
@@ -1123,4 +1345,242 @@ syn riddle puzzle
 
 n [ɪ'nɪgmə] 谜
 
-en加强
+en加强 ig from ignorant 无知成谜
+
+a enigmatic [ˌenɪɡˈmætɪk] 高深的
+
+## convict
+
+vt 证明有罪
+
+反 acquit 退出罪行
+
+vict/vinc = conquer 征服胜利 victory
+
+convict sb of sth
+
+#### conviction
+
+n 相信 类比convince
+
+### vict-
+
+#### evict
+
+从放屋里驱逐出去
+
+向外征服
+
+#### evince
+
+vt 表明 [ɪˈvɪns]
+
+类比convince
+
+向外征服
+
+#### invincible
+
+不可战胜的 [ɪnˈvɪnsəbl]
+
+in否定 不能赢的
+
+#### vanquish
+
+v 征服 = conquer
+
+world vanquisher 
+
+## convivial
+
+a 欢宴的 [kənˈvɪvɪəl]
+
+convivial friends 酒肉朋友
+
+vivi = live/life 如vivid，survive
+
+vit = life 如vitamin
+
+### vivi-
+
+#### vivacious
+
+a [vɪˈveɪʃəs] 活泼的
+
+acious很多 生命很多
+
+#### vivify
+
+v 使活泼
+
+#### vitality
+
+n [vaɪˈtæləti] 活力
+
+vital 致命的重要的
+
+#### vitalize
+
+v 赋予生命力 [ˈvʌɪt(ə)lʌɪz]
+
+## corporate
+
+a 法人的，共同的，全体的
+
+corporation n 公司
+
+corpor = boby 团体，身体
+
+### corpor-
+
+#### incorporate
+
+v 体现 = embody，合并 = amalgam
+
+in + () + ate : 加强，动词情况下
+
+#### corpulent
+
+a 肥胖的，臃肿的 [ˈkɔːpjʊl(ə)nt]
+
+肉体很多
+
+pu 联想 pull，拉自己走
+
+#### corporeal
+
+a 肉体的，有形的，物质的 [kɔːˈpɔːrɪəl]
+
+tangible 有形的
+
+intangible 无形的
+
+#### corpse
+
+n 尸体 = body
+
+## cosmic
+
+a 宇宙的 [ˈkɒzmɪk]
+
+cosmic particles
+
+cosmic beings
+
+cosm means universe n 宇宙
+
+### cosm-
+
+#### cosmopolitan
+
+a n 世界性的；四海为家的 [ˌkɒzməˈpɒlɪtən]
+
+polit from city 如political 政治和城市有关
+
+宇宙一样的城市
+
+#### insular
+
+cosmopolitan的反义
+
+a 岛屿的，地方性的，狭隘的 [ˈɪnsjələ]
+
+## craven
+
+n 懦夫 a 胆怯的  [ˈkreɪv(ə)n]
+
+syn timid cowardly
+
+ant gallant intrepid valiant plucky
+
+cra 联想 cry 吓哭
+
+#### cringe
+
+v 畏缩；谄媚 = adulate
+
+cri cry 哭
+
+#### cavern
+
+n 大洞 [ˈkævərn]
+
+cave 山洞
+
+#### fringe
+
+边缘
+
+infringe 越过边界 = 违反侵犯
+
+## crusade
+
+Crusade [kruːˈseɪd] n 十字军东征
+
+crusade n 改革
+
+每个士兵发一个十字架
+
+crus from cross 十字架，十字路口
+
+ade 名词后缀，集合 masquerade，barricade
+
+### cru-
+
+#### crucial
+
+a 重要的
+
+在十字路口，需要正确选择
+
+#### crux
+
+n 重要节点，要点
+
+#### crucify
+
+v 钉在十字架上，折磨
+
+## curt
+
+a 简短而草率的
+
+联想 cut 切，切短
+
+#### curb
+
+v 抑制 n 马路边
+
+联想 cut 切断
+
+### ANT
+
+#### goad
+
+v 刺激 [ɡəʊd]
+
+good 好 老师表扬，说你好 = 激励
+
+## cynic
+
+n 犬儒主义者，愤世嫉俗者
+
+cyn means dog
+
+#### cynical
+
+a cynical 犬儒主义的
+
+#### cynicism
+
+n cynicism 犬儒主义
+
+### SYN
+
+#### unbelieving
+
+怀疑人生价值
+
+#### sarcastic
+
+讽刺人生
