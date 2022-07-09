@@ -674,3 +674,453 @@ a ['eləkwənt] 健谈的
 n [,ɪntələʊ'kjuːʃən] 对话
 
 之间说
+
+## clairvoyance
+
+n 透视，洞察力 [kleə'vɒɪəns]
+
+syn insight，acumen
+
+clair = clear，voy = vis
+
+看得清清楚楚
+
+## clement
+
+a ['klem(ə)nt] 仁慈的，温和的
+
+syn benign a
+
+antonym inclement a 险恶的
+
+clem from climate
+
+n clemency
+
+## cogitate
+
+vi vt 思考
+
+cogitate on sth 考虑某事
+
+ag 行动，驱动
+
+一起行动起来考虑
+
+### ag-
+
+#### agitate
+
+行动上煽动
+
+### SYN
+
+思考考虑
+
+#### deliberate
+
+a 故意的；vt 仔细考虑
+
+liber from libra 天平 ['li:brə]
+
+天平 = 衡量事情 = 考虑
+
+#### contemplate
+
+vt 仔细考虑 ['kɒntempleɪt]
+
+temple n 太阳穴
+
+思考时揉太阳穴
+
+#### ruminate
+
+vi ['ruːmɪneɪt] 沉思
+
+ruminate on sth
+
+谐音 入迷
+
+#### ponder
+
+ponder + that clause
+
+ponder over sth
+
+pound 磅 = 反复掂量
+
+## coltish
+
+a ['kəʊltɪʃ] 小马似的，轻佻的，不受拘束的
+
+colt 小马 类比 call 叫喊的小马
+
+### SIMILAR
+
+#### colt
+
+n 小马
+
+#### jolt
+
+v 颠簸 [dʒəʊlt]
+
+journey 旅途颠簸
+
+#### molt
+
+v 脱毛 
+
+mo音似毛
+
+#### dolt
+
+n 傻瓜 [dəʊlt]
+
+形音似dull 傻瓜
+
+## combustible
+
+a [kəm'bʌstɪb(ə)l] 易燃的
+
+bust = burst 爆炸 from burn
+
+放在一起能燃烧
+
+spontaneous combustion 自燃
+
+### SYN
+
+#### inflammable
+
+a [ɪn'flæməb(ə)l] 易燃的
+
+in 加强 flam from flame
+
+#### ignite
+
+vt vi 点燃，燃烧
+
+## commensurate
+
+a 相称的 [kə'menʃ(ə)rət]
+
+com 强调 mensur = measure
+
+共同的尺寸
+
+a salary commensurate with your work experiencce
+
+### SYN
+
+#### tantamount
+
+a ['tæntəmaʊnt] 同等的
+
+be tantamount to
+
+包含amount 数量
+
+#### congruent
+
+a ['kɒŋgrʊənt] 一致的，全等的
+
+gru from agree
+
+### SIMILAR
+
+#### commemorate
+
+vt 庆祝
+
+#### consummate
+
+a ['kɑnsəmət] 完美的
+
+sum = summit 一起达到峰 = 完美的
+
+## complacent
+
+a [kəm'pleɪs(ə)nt] 自满的
+
+plac from please
+
+自己高兴
+
+### SIMILAR
+
+#### complaisant
+
+a [kəm'pleɪz(ə)nt] 顺从的
+
+plai from please
+
+使别人高兴
+
+反义 mulish a 执拗的
+
+mule 驴一样的
+
+## conciliation
+
+n [kən,sɪlɪ'eɪʃn] 调解，安抚
+
+conciliate v
+
+cili from call 打电话安慰
+
+### cili-
+
+#### reconcile
+
+vt 和解，和好  ['rek(ə)nsaɪl]
+
+吵完架之后再次打电话
+
+be reconciled with sb
+
+#### supercilious
+
+a [suːpə'sɪlɪəs] 高傲的
+
+班长在上面喊
+
+syn arrogant
+
+## condiment
+
+n 调味品 ['kɒndɪm(ə)nt]
+
+syn seasoning
+
+cond = hide
+
+abscond 藏并离开 = 潜逃
+
+condiment：藏在dish菜里
+
+#### recondite
+
+a 深奥的 ['rek(ə)ndaɪt] 
+
+向后藏，藏得深
+
+## confide
+
+v [kən'faɪd] 倾诉 委托
+
+confide in sb
+
+fid 相信 confident 
+
+### fid-
+
+#### confidant
+
+n 密友 [,kɒnfɪ'dænt]
+
+ant 人
+
+信得过的人
+
+#### diffident
+
+a 胆怯的
+
+反义 confident
+
+#### fidelity
+
+n 忠诚 [fɪ'delɪtɪ]
+
+相信 = 忠诚
+
+#### perfidious
+
+a 背信弃义的 [pə'fɪdɪəs]
+
+per = away 如perjure
+
+远离信任
+
+#### defy
+
+v 违抗
+
+fy = fi => fid 
+
+de 不 
+
+不相信
+
+n defiance 
+
+a defiant
+
+## constrict
+
+vt 压缩，限制 [kən'strɪkt]
+
+= restrict
+
+strict/strain = tighten 拉紧
+
+strain 扭，拉
+
+### strict-
+
+#### astrict
+
+v 束缚，限制，收缩
+
+#### constrain
+
+v 监禁，抑制
+
+#### restrain
+
+v 抑制，限制
+
+n restraint
+
+### SYN
+
+v compress 压缩 [kəm'pres]
+
+压到一起
+
+### press-
+
+压
+
+#### oppress
+
+v 压迫，压抑
+
+op = ob 1. 加强 2. 相反
+
+Some old people are oppressed by the fear of death.
+
+#### suppress
+
+v 强权镇压
+
+su + 双写 from sub 下
+
+#### repress
+
+v 正义镇压
+
+压回去
+
+## contiguity
+
+n 接触，临近 [,kɒntɪ'gjuːɪtɪ]
+
+syn adjacent，abut on，adjoin
+
+the contiguity of A and B
+
+The contiguity of washroom and bedroom is convenient for the handicapped.
+
+tig from tact/tang = touch 触摸 如contact
+
+tangent 正切，碰上圆
+
+tango 探戈，跳舞需要肢体接触
+
+### tact-
+
+#### tact
+
+n 机智圆滑
+
+touch，接触人时机智圆滑
+
+#### intact
+
+a 完好无损
+
+没碰过
+
+#### tangle
+
+n 纠纷，（电线等）纠缠
+
+le 反复 反复摸
+
+#### tangible
+
+a 能触摸得到的，有形的
+
+tangible assets
+
+#### contagion
+
+n [kən'teɪdʒ(ə)n] 传染病，传染
+
+一起接触
+
+sym infection
+
+#### entangle
+
+v 使纠缠
+
+### SYN
+
+#### proximity
+
+n 邻近
+
+from approximate 大约
+
+proximity to the city is important
+
+## contumacy
+
+n ['kɒntjʊməsɪ] 拒不服从
+
+syn defiance
+
+tum from bloated 吹起来 = 肿胀 如tumor肿瘤
+
+benign tumor
+
+malignant tumor
+
+各方面自我膨胀 = 不服管
+
+### tum-
+
+#### contumely
+
+n 无礼傲慢 [kɒntjuːmɪlɪ]
+
+#### tumid
+
+a 肿胀的
+
+#### tumult
+
+n 骚动 ['tjuːmʌlt]
+
+全国上下到处膨胀闹事
+
+## conundrum
+
+n [kə'nʌndrəm] 谜题
+
+谐音可难琢磨
+
+一起con被蒙un在鼓里gu
+
+syn riddle puzzle
+
+### SYN
+
+#### enigma
+
+n [ɪ'nɪgmə] 谜
+
+en加强
