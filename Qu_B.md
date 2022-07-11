@@ -1,4 +1,119 @@
-[toc]
+- [balmy](#balmy)
+- [baneful](#baneful)
+  * [SIMILAR](#similar)
+    + [wane](#wane)
+    + [sane](#sane)
+    + [arcane](#arcane)
+    + [inane](#inane)
+  * [SYN](#syn)
+    + [baleful](#baleful)
+    + [bale](#bale)
+- [barricade](#barricade)
+  * [bar-](#bar-)
+    + [barren](#barren)
+    + [embargo](#embargo)
+    + [barbarian](#barbarian)
+  * [SYN](#syn-1)
+    + [blockade](#blockade)
+    + [curfew](#curfew)
+- [bawdy](#bawdy)
+  * [SYN](#syn-2)
+    + [obscene](#obscene)
+    + [lewd](#lewd)
+    + [erotic](#erotic)
+- [benign](#benign)
+  * [bene-](#bene-)
+    + [benefactor](#benefactor)
+    + [malefactor](#malefactor)
+    + [benediction](#benediction)
+    + [malediction](#malediction)
+    + [benevolent](#benevolent)
+    + [malevolent](#malevolent)
+    + [benign](#benign-1)
+    + [malignant](#malignant)
+    + [beneficial](#beneficial)
+  * [SYN](#syn-3)
+    + [malice](#malice)
+    + [malign](#malign)
+    + [malfeasance](#malfeasance)
+    + [malcontent](#malcontent)
+    + [malady](#malady)
+    + [malaise](#malaise)
+- [bewilder](#bewilder)
+  * [be-](#be-)
+    + [belie](#belie)
+    + [belittle](#belittle)
+    + [beguile](#beguile)
+    + [besiege](#besiege)
+    + [beleaguer](#beleaguer)
+- [bestow](#bestow)
+  * [SYN](#syn-4)
+    + [endow](#endow)
+  * [dow-](#dow-)
+    + [dote](#dote)
+    + [condone](#condone)
+- [blasphemy](#blasphemy)
+  * [SYN](#syn-5)
+    + [profane](#profane)
+- [blatant](#blatant)
+  * [SIMILAR](#similar-1)
+    + [bloated](#bloated)
+    + [blotch](#blotch)
+- [boisterous](#boisterous)
+  * [boy-](#boy-)
+    + [flamboyant](#flamboyant)
+    + [boycott](#boycott)
+- [bolster](#bolster)
+  * [SIMILAR](#similar-2)
+    + [lobster](#lobster)
+  * [ANT](#ant)
+    + [undermine](#undermine)
+- [bondage](#bondage)
+    + [bandage](#bandage)
+  * [SYN](#syn-6)
+    + [fetter](#fetter)
+  * [ANT](#ant-1)
+    + [enfranchise](#enfranchise)
+    + [thrall](#thrall)
+- [bravado](#bravado)
+    + [wig](#wig)
+    + [denture](#denture)
+  * [ANT](#ant-2)
+    + [audacious](#audacious)
+    + [gallant](#gallant)
+    + [intrepid](#intrepid)
+    + [plucky](#plucky)
+- [breach](#breach)
+  * [br-](#br-)
+    + [breed](#breed)
+    + [brood](#brood)
+    + [embryo](#embryo)
+    + [braid](#braid)
+    + [broach](#broach)
+- [brink](#brink)
+  * [SYN](#syn-7)
+    + [fringe](#fringe)
+    + [rim](#rim)
+    + [verge](#verge)
+- [bulge](#bulge)
+  * [bu-](#bu-)
+    + [bugle](#bugle)
+    + [bullish](#bullish)
+    + [bully](#bully)
+    + [bucolic](#bucolic)
+- [bumble](#bumble)
+  * [SIMILAR](#similar-3)
+    + [humble](#humble)
+    + [fumble](#fumble)
+    + [mumble](#mumble)
+    + [jumble](#jumble)
+    + [tumble](#tumble)
+    + [stumble](#stumble)
+    + [crumble](#crumble)
+    + [grumble](#grumble)
+  * [SYN](#syn-8)
+    + [bungle](#bungle)
+
 
 ## balmy
 
@@ -90,7 +205,7 @@ n v 禁运令，禁止贸易
 
 #### barbarian
 
-n 野蛮人
+n 野蛮人 [bɑː'beərɪən]
 
 bar bar 两个棒子 ian 人
 
@@ -387,3 +502,331 @@ n 红斑，斑点 v 弄脏
 明显肿胀的红斑
 
 blatant bloated blotch
+
+## boisterous
+
+a 喧闹的 ['bɒɪst(ə)rəs]
+
+boy + st + ous
+
+男孩站一起吵闹
+
+### boy-
+
+#### flamboyant
+
+a 炫耀的，外表浮夸
+
+火焰般的男孩
+
+#### boycott
+
+vt n 联合抵制
+
+n boycott against sth
+
+## bolster
+
+n v 垫子，支持 = espouse
+
+bol from ball 鼓起
+
+### SIMILAR
+
+#### lobster
+
+n 龙虾
+
+### ANT
+
+#### undermine
+
+v 暗中破坏
+
+在底下挖矿
+
+## bondage
+
+n 奴役，束缚
+
+from bind
+
+#### bandage
+
+n 绷带
+
+bondage o 绑住
+
+### SYN
+
+#### fetter
+
+n 脚镣 v 束缚
+
+### ANT
+
+liberate
+
+#### enfranchise
+
+vt [ɪn'fræn(t)ʃaɪz] 解放
+
+franch = French 法国解放
+
+fran from free
+
+#### thrall
+
+n 奴隶，束缚
+
+three + all 众人，大部分人都是奴隶
+
+enthrall v 奴役，使着迷
+
+粉丝成为明星奴隶 = 着迷
+
+## bravado
+
+n 逞能，虚张声势 [brə'vɑːdəʊ]
+
+brave 做出来的勇敢
+
+#### wig
+
+n 假发
+
+#### denture
+
+n 假牙
+
+dentist
+
+### ANT
+
+真勇敢的
+
+#### audacious
+
+a 无畏的 [ɔː'deɪʃəs]
+
+#### gallant
+
+a 战士英勇
+
+gall 胆汁，胆
+
+ball 球
+
+#### intrepid
+
+trepid 胆小的 from tremble
+
+#### plucky
+
+pluck 采摘拔，勇气
+
+luck 运气
+
+## breach
+
+n 违背，破坏 vt 打破
+
+通假 break
+
+the breach of regulations
+
+br 分开 branch
+
+br 出生 brother
+
+### br-
+
+st 站
+
+cr，scr 手上动作
+
+sl 下滑
+
+sp 发散
+
+wr 扭曲
+
+#### breed 
+
+v 繁殖，喂养
+
+#### brood 
+
+v 孵化
+
+oo 两个蛋
+
+#### embryo
+
+n 胚胎
+
+#### braid
+
+n 辫子（两股）
+
+分开
+
+#### broach
+
+v 开口，开瓶；开始讨论
+
+反 close off
+
+## brink
+
+n 断崖边缘
+
+break 断崖
+
+### SYN
+
+#### fringe
+
+n 刘海，偏远
+
+反义center 距中心远近
+
+infringe 进入边缘 = 违反侵犯 vi
+
+infringe on sth = break
+
+女同桌画线
+
+#### rim
+
+n 圆形物体边缘
+
+rim - brim - trim - grim
+
+brim 帽檐
+
+trim 整齐的，修剪
+
+grim 严厉的，恐怖的，from grey，鬼g
+
+#### verge
+
+= edge 路沿
+
+on the verge of extinction 濒临灭绝的边缘
+
+## bulge
+
+n v 突出，膨胀
+
+depressed a 凹陷的
+
+from bull means ox 突出突起
+
+### bu-
+
+#### bugle
+
+a 冲锋号 ['bjuːg(ə)l]
+
+bull + angle 牛角
+
+#### bullish
+
+a 牛市的，自信的 ['bʊlɪʃ]
+
+牛一样的
+
+mulish 驴一样的，倔强的
+
+mule 驴
+
+#### bully
+
+v/n 欺负，欺负压迫者
+
+牛的人欺负人
+
+underdog 被欺负者
+
+cow vt 欺负，恐吓
+
+#### bucolic
+
+a 田园的 [bjuː'kɒlɪk]
+
+bull + call 每天听到牛在叫
+
+同义rural 反义urban
+
+## bumble
+
+vt 拙劣地做，含糊地说 n 大错误
+
+bumble the lunch
+
+bomb 炸弹搞砸
+
+### SIMILAR
+
+#### humble
+
+a v 谦卑
+
+做人要谦卑 human
+
+#### fumble
+
+vi 翻寻，摸找
+
+fumble for sth
+
+find 寻找
+
+#### mumble
+
+v 喃喃而语，私下抱怨
+
+mum私下说
+
+#### jumble
+
+n v 混乱
+
+交通阻塞jam
+
+#### tumble
+
+v 跌倒
+
+tumble down
+
+#### stumble
+
+v 踉跄
+
+st 还站着
+
+#### crumble
+
+v 粉碎
+
+crumb 面包屑
+
+le 动词
+
+#### grumble
+
+v 抱怨
+
+gru 心情不爽
+
+背gre抱怨
+
+### SYN
+
+#### bungle
+
+搞砸，谐音笨狗
+
+反义 bring off 顺利完成
