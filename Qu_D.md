@@ -401,3 +401,519 @@ v 贬值 [dɪ'priːʃɪeɪt]
 appreciate 增值
 
 助记抗议贬值
+
+## denunciation
+
+n [dɪ,nʌnsɪ'eɪʃ(ə)n] 谴责
+
+pronunciation n 发音
+
+vt denounce 公开批评 
+
+vt announce 公开宣布
+
+nounce = claim 通知呼喊
+
+de 否定，宣布不好的东西
+
+### nounce-
+
+#### renounce
+
+vt 放弃
+
+retire + announce
+
+#### enunciate
+
+vt 阐明，清楚地说出 = articulate
+
+往外说，说出来
+
+### SYN
+
+vt 谴责
+
+re 否定
+
+#### reprove
+
+举反证 prove
+
+#### reproach
+
+approach 接近
+
+不接近
+
+#### reprehend
+
+[,reprɪ'hend]
+
+comprehend 理解
+
+不理解
+
+#### reprimand
+
+['reprɪmɑːnd]
+
+command 命令
+
+不服从命令
+
+#### rebuke
+
+[rɪ'bjuːk]
+
+拼音 bu不 ke可
+
+## deport
+
+vt 举止，驱逐
+
+deportment n 举止
+
+deportation n 驱逐
+
+de = off 出去远离 port 港口
+
+transport 在港口之间搬运
+
+### port-
+
+#### portable
+
+a 可以携带的，便携的
+
+potable ['pəʊtəb(ə)l] a
+
+可饮用的 = drinkable
+
+pot 壶
+
+#### disport
+
+v 嬉戏，雀跃
+
+sport from disport
+
+分开分组嬉戏 = 运动比赛
+
+lark 嬉戏 vi
+
+## destitution
+
+n 穷困，缺乏
+
+stitute 站立
+
+st 站立
+
+### stitute-
+
+constitute 组成
+
+substitute 代替
+
+institute 学院，创建
+
+#### destitute
+
+a 穷的
+
+de下，站在最底层的群众
+
+#### prostitute
+
+n 妓女
+
+站在前面给顾客挑选
+
+n prostitution 卖淫
+
+#### restitute
+
+v 偿还
+
+站回来 = return 
+
+### sist-
+
+站立 stand
+
+#### subsist
+
+vi 维持生活
+
+subsist on fish = live on fish
+
+### SYN
+
+#### impoverish
+
+v 使贫穷
+
+im 加强
+
+pover from poverty
+
+a impoverished 贫穷的
+
+impoverished areas
+
+#### penury
+
+n 贫穷
+
+from penny 一便士
+
+#### indigent
+
+a 贫穷的 ['ɪndɪdʒ(ə)nt]
+
+dig 挖坑
+
+不断挖坑，挖穷你
+
+n indigence
+
+## deteriorate 
+
+v 恶化
+
+syn worsen，exacerbate
+
+terior from terror 恐惧
+
+### terror-
+
+#### deter
+
+deter v 阻碍，震慑
+
+de + terror 加强吓唬
+
+#### deterrent
+
+n 阻碍物 [dɪ'ter(ə)nt]
+
+阻碍反义 goad 刺激
+
+### SYN
+
+#### aggravate
+
+加重恶化
+
+### ANT
+
+#### ameliorate
+
+deteriorate，模仿造词
+
+模仿造词如 hire - fire
+
+vt [ə'miːlɪəreɪt] 减轻
+
+a 否定
+
+meli from male = evil
+
+没有变邪恶
+
+## dexterous
+
+a 灵巧的，惯用右手的
+
+dextr = right
+
+ambidextrous 两只右手 = 双手灵巧的
+
+ambi-  两 / 走
+
+### dextr-
+
+#### dexterity
+
+n 敏捷  [dek'sterɪtɪ]
+
+## diatribe
+
+n 抨击，谩骂
+
+反义 eulogy 说好话 = 颂词
+
+dia 1. 之间 dialog 
+
+dia 2. 跨越 diagonal 跨越角 = 对角线
+
+tribe 部落
+
+tri + being 三人成众成为部落
+
+部落之间谩骂抨击，如三国演义
+
+### ANT
+
+表扬
+
+#### accolade
+
+n  ['ækəleɪd]
+
+col from collar
+
+在领子上授予勋章
+
+#### acclaim
+
+v 喝彩
+
+加强叫好
+
+#### commend
+
+v 公开赞扬
+
+recommend 推荐
+
+推荐受到表扬的人
+
+#### eulogize 
+
+v 歌颂
+
+eu 好
+
+n eulogy
+
+#### exalt
+
+v 高度赞扬
+
+alt 高 altitude 海拔
+
+#### extol
+
+v 赞美
+
+tol from tall 高
+
+捧高
+
+#### compliment 
+
+v n 赞美
+
+complement 补充，补充物
+
+complement from complete
+
+补充完，完满了
+
+我赞扬，e补充
+
+#### laud
+
+v 歌颂
+
+Lord 上帝
+
+歌颂上帝
+
+## dilapidated
+
+a [dɪ'læpɪdeɪtɪd] 年久失修的，破旧的
+
+a dilapidated house
+
+lapid from stone
+
+石头全分开了
+
+### lapid-
+
+#### lapidary
+
+n 加工宝石的人
+
+### SYN
+
+#### derelict
+
+a 破旧弃置的 = deserted  ['derəlɪkt]
+
+a 玩忽职守的 助记 弃置事情
+
+de 加强 + relic 遗址
+
+#### decrepit
+
+a 衰老的，建筑物破旧的
+
+cre = create 创造
+
+de 否定
+
+创造不出来了 = 老了
+
+## discompose
+
+v 不安
+
+compose 1.创作 2.组成 3.使镇定
+
+discompose 不镇定
+
+composition n 创作对应名词
+
+composure n 镇定对应名词
+
+decompose v 分解
+
+组成的反义 = 分解 
+
+pose 姿势
+
+pose = put 摆放，摆造型
+
+### pose-
+
+放
+
+#### expose
+
+v 暴露
+
+#### propose
+
+v 提出，求婚
+
+往前放 = 提出
+
+向前摆姿势 = 求婚
+
+#### dispose
+
+v 处理，陈列
+
+分开放 = 陈列
+
+#### impose
+
+v 强加于
+
+放在上面，压在上面
+
+im 向里；否定；加强；上面
+
+#### depose
+
+v 罢免
+
+往下放，放下来
+
+#### repose
+
+v 睡觉
+
+往后放身体
+
+#### transpose
+
+v 改换顺序
+
+从一边放到另一边，易位
+
+#### juxtapose
+
+v 并排放  [,dʒʌkstə'pəʊz]
+
+junction 连接处
+
+conjunction 连词
+
+连在一起放
+
+#### superimpose
+
+v 叠加
+
+impose 往上放
+
+super 上面
+
+上面放了，再上面放 = 叠加
+
+## disillusion
+
+v 大失所望，幻灭
+
+### lusion
+
+#### illusion
+
+illusion 幻觉 
+
+ill 生病
+
+#### delusion
+
+幻觉
+
+dis否定，不再有幻觉
+
+syn disappoint
+
+lus/lud = to play 玩，表演
+
+### lude-
+
+#### prelude
+
+n 前奏
+
+#### interlude
+
+n 间奏
+
+#### postlude
+
+n 尾声，后奏
+
+#### allude
+
+v 暗指提及
+
+加强演 = 暗指
+
+通过演来暗示，旁敲侧击
+
+#### collude
+
+vi 勾结
+
+collude with
+
+一起演戏 = 勾结
+
+#### elude
+
+v 回避
+
+向外玩，出去玩
+
+大人谈事情，赶小孩走，回避
+
+#### elusive
+
+elusive 晦涩难懂的 a
+
+知识躲着你
+
+#### delude 
+
+v 欺骗
+
+加强演戏
