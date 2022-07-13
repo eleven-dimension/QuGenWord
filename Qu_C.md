@@ -299,11 +299,11 @@ n/vt ['laɪb(ə)l] 文字诽谤
 
 ## camouflage
 
-vt 伪装 ['kæməflɑːʒ]
+vt n 伪装 ['kæməflɑːʒ]
 
 syn. belie dissemble dissimulate
 
-camouflage color 迷彩色
+camouflage color 迷彩色 n
 
 camouflaged vehicles 伪装车辆
 
