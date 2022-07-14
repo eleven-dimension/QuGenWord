@@ -244,3 +244,274 @@ v 后悔
 
 如果再给一次机会
 
+## entomology
+
+n  [,entə'mɒlədʒɪ] 昆虫学
+
+tom means cut
+
+atom 原子 不可再分
+
+切开昆虫研究昆虫学
+
+insect sect- 切开
+
+### tom-
+
+#### anatomy
+
+n 解剖学 [ə'nætəmɪ]
+
+an + atom 一个原子
+
+#### epitome
+
+n 典范；摘要  [ɪ'pɪtəmɪ]
+
+epi 在上面
+
+在上面切开一篇论文
+
+摘要最前面
+
+### sect-
+
+section 部分
+
+sect 切
+
+#### bisect
+
+切两半
+
+bi 2
+
+#### dissect
+
+v 解剖
+
+dis 分开
+
+切开
+
+#### intersect
+
+v 横切
+
+中间切
+
+## epidemic
+
+a 流行的 n 传染病  [epɪ'demɪk]
+
+epi 上面；之间；之后
+
+艾比米修斯，普罗米修斯的弟弟
+
+潘多拉的丈夫
+
+普罗米修斯是先知者 pro-
+
+艾比米修斯是后知后觉 epi-
+
+demo = people 如democracy 民主，人民做主
+
+epi + demo 人民之间流行
+
+### epi-
+
+#### prologue
+
+开场白
+
+#### epilogue
+
+结束语
+
+#### epigraph
+
+写在上面 = 碑文
+
+### demi-
+
+人民！
+
+#### endemic
+
+a 地方性流行的
+
+en 进入
+
+进入人民里流行
+
+#### pandemic
+
+a 全国流行
+
+pan 全 all
+
+panorama 全景
+
+pan-American 全美洲
+
+#### demographic
+
+a 人口统计学的 [,demə'græfɪk]
+
+写人民的数量
+
+## equilibrium
+
+n 平衡
+
+arcaea black fate 9.5 Maozon
+
+libr from Libra 天秤座，天平
+
+equa = 相等
+
+### equa-
+
+#### equitable
+
+a 相等的，公正的
+
+fair，just
+
+#### equable
+
+a 温和的
+
+性格平均 = 不温不火
+
+#### iniquity
+
+n 不公正 [ɪ'nɪkwɪtɪ]
+
+in 否定
+
+iqu from equ
+
+### SYN
+
+#### disinterested
+
+a 公正的
+
+兴趣利益平均
+
+uninterested 不感兴趣的
+
+## etch
+
+v 蚀刻
+
+itch 抓痒
+
+etch from eat 蚕食，侵蚀
+
+### ANT
+
+#### efface
+
+vt 抹去，擦除 = erase
+
+ef = ex = 向外
+
+擦外面的脸
+
+### face-
+
+#### deface
+
+v 损伤表面 [dɪ'feɪs]
+
+否定脸
+
+#### facet
+
+n 面 ['fæsɪt] 
+
+et/let/ette 小
+
+cigarette/booklet/packet
+
+小脸 = 物体的小面；事情的方面
+
+aspect 事情的方面
+
+#### facetious
+
+a [fə'siːʃəs] 爱开玩笑的，不正经的
+
+充满脸面的
+
+#### facade
+
+n 正面 [fə'sɑːd]
+
+ade 集合
+
+脸的集合 = 建筑物的正面
+
+## euphoria
+
+n 高兴
+
+eu 好
+
+phor from fer 搬 carry
+
+transfer 转换 ferry 渡轮
+
+搬来美好
+
+### fer-
+
+#### defer
+
+v 推迟 = delay
+
+往下放一放
+
+#### confer
+
+v 协商
+
+conference 开会
+
+### SYN
+
+高兴
+
+#### glee
+
+n 高兴
+
+from glad
+
+夏天有格力空调高兴
+
+#### bliss
+
+n 极乐
+
+from bless 保佑
+
+#### mirth
+
+n 高兴
+
+from miracle
+
+birth mirth 妈生孩子高兴
+
+#### ecstasy
+
+n 狂喜 ['ekstəsɪ]
+
+e from ex，off/out
+
+st 站
+
+远离站 = 不再静静地站着 = 狂欢
