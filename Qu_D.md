@@ -917,3 +917,287 @@ elusive 晦涩难懂的 a
 v 欺骗
 
 加强演戏
+
+## disposed
+
+a 有什么什么倾向的
+
+be disposed to 倾向于做某事
+
+dispose v 处理
+
+### -disposition
+
+#### disposition
+
+n 性格
+
+#### indisposition
+
+n 小病  [,ɪndɪspə'zɪʃ(ə)n]
+
+性情不好
+
+#### predisposition
+
+n 倾向，喜欢 [priːdɪspə'zɪʃn]
+
+向前性情
+
+#### penchant
+
+n 倾向 ['pentʃənt]
+
+### SYN
+
+#### orientation
+
+适应，开学；倾向 [,ɔːrɪən'teɪʃ(ə)n]
+
+oriental 东方的
+
+ori 开始有关 origin
+
+新东方开学
+
+religious orientation 宗教倾向
+
+political orientation 政治政党倾向
+
+sexual orientation 性取向
+
+## disseminate
+
+v 散布，散开 [dɪ'semɪneɪt]
+
+semin from seed
+
+seminar 研讨会 传播知识的种子
+
+semen 精液 散布精子
+
+### semin-
+
+#### inseminate
+
+vt 使受孕，使受精  [ɪn'semɪneɪt]
+
+in + () + ate 加强
+
+artificial insemination
+
+## distraught
+
+a 不安的，发狂的，心神狂乱的  [dɪ'strɔːt]
+
+from distract 使分心 v
+
+tract = to draw 拉
+
+contract 拉到一起 = 合同 [ˈkɒntrækt]
+
+atract 加强拉过来 = 吸引
+
+distract 拉开 = 分心
+
+### tract-
+
+#### contract
+
+v [kənˈtrækt] 拉紧
+
+一起拉，两边拉
+
+#### detract
+
+v 贬低，诋毁
+
+拉下马
+
+#### retract
+
+v 收回
+
+拉回来
+
+#### protract
+
+v 延长
+
+往前拉，拉长
+
+protract your life
+
+#### extract
+
+v 拔出，抽出，摘录 [ˈekstrækt]
+
+拉出来
+
+The sentence is extracted from the book.
+
+#### subtract
+
+v 减去
+
+#### intractable
+
+a 难以驾驭的，难以管束的 [ɪn'træktəb(ə)l]
+
+不能拉，拉不住的，比如烈马
+
+## divestiture
+
+n 剥夺，脱衣  [daɪ'vestɪtʃə]
+
+divest v
+
+divest sb of sth 剥夺
+
+deprive sb of sth 剥夺
+
+vest 背心 n
+
+vest 赋予 v
+
+皇帝的黄背心 = 赋予权利
+
+divest 背心离开身体 = 剥夺 / 脱衣
+
+### vest-
+
+#### transvestite
+
+n 异装癖者 [trænz'vestaɪt]
+
+从一个背心到另一个女生背心
+
+#### travesty
+
+n 拙劣的模仿  ['trævɪstɪ]
+
+背心转换 = 穿明星背心
+
+### SYN
+
+#### strip
+
+脱去，剥夺
+
+a strip show 脱衣舞表演
+
+strip off 脱去
+
+#### don
+
+穿 on
+
+#### doff
+
+脱 off
+
+## dormant
+
+a 睡眠状态
+
+dormant volcano 休眠火山
+
+active volcano 活火山
+
+extinct volcano 死火山
+
+dormitory n 宿舍
+
+### SYN
+
+#### repose
+
+睡觉
+
+往后摆姿势
+
+#### slumber
+
+= sleep 睡觉
+
+sl 下滑
+
+#### hibernate
+
+v 冬眠
+
+#### hibernation
+
+n 冬眠
+
+high + bear 熊在高山冬眠
+
+## drab
+
+a 土褐色的，单调的
+
+from dry 干巴巴
+
+crab n 螃蟹
+
+土褐色的螃蟹 drab stab
+
+stab 刺
+
+### SYN
+
+a 单调的
+
+#### monotonous
+
+[mə'nɒt(ə)nəs]
+
+mono 单一
+
+monolog 独白
+
+ton from tone 调子
+
+#### dreary
+
+dre from dry
+
+联想 dream
+
+dreary dream 乏味的梦
+
+#### humdrum
+
+human + drum 
+
+一个人打鼓 = 单调的
+
+#### tedious
+
+冗长乏味的 ['tiːdɪəs]
+
+tedious speech
+
+ted from extend
+
+伸得长
+
+## drudge
+
+n 苦工 v 做苦工
+
+drive 驱动
+
+### SYN
+
+#### toil
+
+toil to do
+
+联想 toilet 扫厕所辛苦
+
+#### fag
+
+from fact 做
+
+苦做
