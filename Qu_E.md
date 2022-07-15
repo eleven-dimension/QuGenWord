@@ -1,3 +1,121 @@
+- [ebullience](#ebullience)
+  * [SYN](#syn)
+    + [exultant](#exultant)
+    + [exuberant](#exuberant)
+    + [exhilarate](#exhilarate)
+- [elicit](#elicit)
+  * [lic-](#lic-)
+    + [licit](#licit)
+    + [illicit](#illicit)
+- [elope](#elope)
+  * [lop-](#lop-)
+    + [gallop](#gallop)
+    + [lope](#lope)
+- [eminent](#eminent)
+  * [min-](#min-)
+    + [prominent](#prominent)
+    + [preeminent](#preeminent)
+    + [imminent](#imminent)
+  * [SYN](#syn-1)
+    + [renowned](#renowned)
+- [emollient](#emollient)
+  * [moll-](#moll-)
+    + [mollify](#mollify)
+    + [demolish](#demolish)
+      - [devastate](#devastate)
+    + [mollusk](#mollusk)
+- [enervate](#enervate)
+  * [SYN](#syn-2)
+    + [debilitate](#debilitate)
+    + [enfeeble](#enfeeble)
+- [ensue](#ensue)
+  * [SIMILAR](#similar)
+    + [sue](#sue)
+    + [hue](#hue)
+    + [cue](#cue)
+    + [rue](#rue)
+- [entomology](#entomology)
+  * [tom-](#tom-)
+    + [anatomy](#anatomy)
+    + [epitome](#epitome)
+  * [sect-](#sect-)
+    + [bisect](#bisect)
+    + [dissect](#dissect)
+    + [intersect](#intersect)
+- [epidemic](#epidemic)
+  * [epi-](#epi-)
+    + [prologue](#prologue)
+    + [epilogue](#epilogue)
+    + [epigraph](#epigraph)
+  * [demi-](#demi-)
+    + [endemic](#endemic)
+    + [pandemic](#pandemic)
+    + [demographic](#demographic)
+- [equilibrium](#equilibrium)
+  * [equa-](#equa-)
+    + [equitable](#equitable)
+    + [equable](#equable)
+    + [iniquity](#iniquity)
+  * [SYN](#syn-3)
+    + [disinterested](#disinterested)
+- [etch](#etch)
+  * [ANT](#ant)
+    + [efface](#efface)
+  * [face-](#face-)
+    + [deface](#deface)
+    + [facet](#facet)
+    + [facetious](#facetious)
+    + [facade](#facade)
+- [euphoria](#euphoria)
+  * [fer-](#fer-)
+    + [defer](#defer)
+    + [confer](#confer)
+  * [SYN](#syn-4)
+    + [glee](#glee)
+    + [bliss](#bliss)
+    + [mirth](#mirth)
+    + [ecstasy](#ecstasy)
+- [excrete](#excrete)
+  * [SYN](#syn-5)
+    + [secrete](#secrete)
+  * [cret-](#cret-)
+    + [discrete](#discrete)
+    + [discreet](#discreet)
+- [exculpate](#exculpate)
+  * [culp-](#culp-)
+    + [inculpate](#inculpate)
+    + [culpable](#culpable)
+    + [culprit](#culprit)
+- [exempt](#exempt)
+  * [empt-](#empt-)
+    + [preempt](#preempt)
+    + [redemption](#redemption)
+    + [redeem](#redeem)
+- [exonerate](#exonerate)
+  * [oner-](#oner-)
+    + [onerous](#onerous)
+    + [onus](#onus)
+- [explicable](#explicable)
+  * [plic-](#plic-)
+    + [explicate](#explicate)
+    + [implicate](#implicate)
+    + [explicit](#explicit)
+    + [implicit](#implicit)
+- [extemporize](#extemporize)
+  * [tempor-](#tempor-)
+    + [contemporary](#contemporary)
+  * [SYN](#syn-6)
+    + [offhand](#offhand)
+    + [impromptu](#impromptu)
+- [extricate](#extricate)
+  * [ANT](#ant-1)
+    + [entangle](#entangle)
+  * [tri-](#tri-)
+    + [intricate](#intricate)
+- [exude](#exude)
+  * [SYN](#syn-7)
+    + [ooze](#ooze)
+
 ## ebullience
 
 n 沸腾，热情洋溢 [ɪ'bʌljəns]
@@ -21,6 +139,8 @@ exalt 赞扬
 #### exuberant
 
 a 茂盛的，茁壮成长的；兴高采烈的
+
+[ɪg'z(j)uːb(ə)r(ə)nt]
 
 ex + uper + ant 植物向上长
 
@@ -118,7 +238,7 @@ pre + eminent
 
 #### imminent
 
-a 即将来临的
+a 即将来临的 ['ɪmɪnənt]
 
 im 向里，即将突出
 
@@ -166,13 +286,15 @@ n demolition
 
 ##### devastate
 
+['devəsteɪt]
+
 syn devastate 摧毁
 
 vast from waste
 
 #### mollusk
 
-n 软体动物
+n 软体动物 ['mɒləsk]
 
 ## enervate
 
@@ -194,7 +316,7 @@ from ability
 
 #### enfeeble
 
-v 使虚弱
+v 使虚弱 [ɪn'fiːb(ə)l]
 
 feeble a 虚弱的
 
@@ -238,7 +360,7 @@ c 包含意思 cage
 
 #### rue
 
-v 后悔
+v 后悔 [ruː]
 
 如果的如拼音 ru
 
@@ -322,15 +444,15 @@ epi + demo 人民之间流行
 
 #### prologue
 
-开场白
+开场白 ['prəʊlɒg]
 
 #### epilogue
 
-结束语
+结束语 ['epɪlɒg]
 
 #### epigraph
 
-写在上面 = 碑文
+写在上面 = 碑文 ['epɪgrɑːf]
 
 ### demi-
 
@@ -338,7 +460,7 @@ epi + demo 人民之间流行
 
 #### endemic
 
-a 地方性流行的
+a 地方性流行的 [en'demɪk]
 
 en 进入
 
@@ -346,7 +468,7 @@ en 进入
 
 #### pandemic
 
-a 全国流行
+a 全国流行 [pæn'demɪk]
 
 pan 全 all
 
@@ -362,7 +484,7 @@ a 人口统计学的 [,demə'græfɪk]
 
 ## equilibrium
 
-n 平衡
+n 平衡  [,iːkwɪ'lɪbrɪəm]
 
 arcaea black fate 9.5 Maozon
 
@@ -374,13 +496,13 @@ equa = 相等
 
 #### equitable
 
-a 相等的，公正的
+a 相等的，公正的 ['ekwɪtəb(ə)l]
 
 fair，just
 
 #### equable
 
-a 温和的
+a 温和的 ['ekwəb(ə)l]
 
 性格平均 = 不温不火
 
@@ -396,7 +518,7 @@ iqu from equ
 
 #### disinterested
 
-a 公正的
+a 公正的 [dɪs'ɪnt(ə)rɪstɪd]
 
 兴趣利益平均
 
@@ -415,6 +537,8 @@ etch from eat 蚕食，侵蚀
 #### efface
 
 vt 抹去，擦除 = erase
+
+[ɪ'feɪs]
 
 ef = ex = 向外
 
@@ -515,3 +639,239 @@ e from ex，off/out
 st 站
 
 远离站 = 不再静静地站着 = 狂欢
+
+## excrete
+
+vt 排泄，分泌 [ɪk'skriːt]
+
+ex + create 向外创造
+
+### SYN
+
+#### secrete
+
+分泌；藏匿 = hide [sɪ'kriːt]
+
+se 分开 + create 创造
+
+藏匿：from secret 秘密
+
+词根 cret means separate
+
+### cret-
+
+#### discrete
+
+a 分开的，不连续的 [dɪ'skriːt]
+
+#### discreet
+
+a 小心的 [dɪ'skriːt]
+
+两个同音词
+
+小心翼翼的 ee
+
+两个ee分开变成ete = 分开的
+
+## exculpate
+
+v 开脱  ['ekskʌlpeɪt]
+
+culp guilt 罪
+
+从罪出来
+
+### culp-
+
+#### inculpate
+
+归罪 v  ['ɪnkʌlpeɪt]
+
+in + () + ate 强调
+
+#### culpable
+
+a 有罪的；应受谴责的
+
+#### culprit
+
+n 罪犯
+
+## exempt
+
+a v 免除；被免除的 [ɪg'zem(p)t]
+
+He was exempt from military service.
+
+empt/em = take 拿
+
+example 拿出来作为例子
+
+exempt 拿出来作为例外，免除
+
+### empt-
+
+#### preempt
+
+v 抢先占有；优先购买 [prɪ'empt]
+
+上菜了，你先给拿走
+
+#### redemption
+
+n 赎回；救赎 [rɪ'dem(p)ʃ(ə)n]
+
+re + empt 拿回来 d 隔开
+
+#### redeem
+
+v 赎回；救赎
+
+## exonerate
+
+vt 证明无罪  [ɪg'zɒnəreɪt]
+
+exculpate inculpate 
+
+oner/on = burden 负担
+
+impose 强加于
+
+levy tax on 收税
+
+on 一般不好的东西压你
+
+ex + oner 从负担中出来
+
+### oner-
+
+#### onerous
+
+a 繁重的  ['əʊn(ə)rəs]
+
+充满负担
+
+#### onus
+
+n 负担 ['əʊnəs]
+
+## explicable
+
+a 可说明的 [ɪk'splɪkəbl; ek-]
+
+from explain
+
+plic/ply = fold 折叠
+
+fold 倍数
+
+four fold
+
+multiply 多倍 = 乘
+
+complicated 叠在一起 = 复杂
+
+### plic-
+
+#### explicate
+
+vt 解释 = explain ['eksplɪkeɪt]
+
+#### implicate
+
+vt 暗示 = imply ['ɪmplɪkeɪt]
+
+vt 使卷入 = involve
+
+#### explicit
+
+a 直接明显的 [ɪk'splɪsɪt]
+
+对应explicate
+
+#### implicit
+
+a 含蓄隐晦的 [ɪm'plɪsɪt]
+
+对应implicate
+
+## extemporize
+
+tempor 临时 temporary
+
+临时就能表达出来
+
+syn improvise 不用之前看
+
+### tempor-
+
+#### contemporary
+
+a 当代的 n 同一时代的人
+
+tempor = time
+
+同一时间
+
+### SYN
+
+#### offhand
+
+a 即兴的
+
+不用帮手来写稿
+
+#### impromptu
+
+a [ɪm'prɒm(p)tjuː] 
+
+prompt a 迅速的
+
+立即就能做出一个东西
+
+## extricate
+
+vt 使解脱 ['ekstrɪkeɪt]
+
+tri from trick
+
+从一个骗局中出来
+
+### ANT
+
+#### entangle
+
+纠缠
+
+### tri-
+
+#### intricate
+
+a 复杂的
+
+骗局很复杂
+
+联想：tri 3 进入三角关系 = 复杂
+
+## exude
+
+v 流出，渗出
+
+ex 向外 de 的
+
+向外流的
+
+形近 exodus n 大批离开，出埃及记
+
+ex 向外 us 我们
+
+反义 influx 大批涌入
+
+### SYN
+
+#### ooze
+
+n 淤泥 v 渗出 [uːz]
+
+联想：两个洞oo
