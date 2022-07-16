@@ -296,9 +296,7 @@ gaga 嘎嘎叫声
 
 ## flout
 
-vt 轻视，藐视
-
-= defy 违抗
+vt 轻视，藐视 = defy 违抗
 
 from flaunt 炫耀
 
@@ -398,9 +396,9 @@ n 先见 ['fɔːsaɪt]
 
 #### forebear
 
-n 祖先 = ancestor = forefather
+n 祖先 ['fɔːbeə]
 
-['fɔːbeə]
+= ancestor = forefather
 
 bear 出生
 
@@ -408,9 +406,7 @@ bear 出生
 
 #### foreboding
 
-[fɔː'bəʊdɪŋ]
-
-n 预示（不好事情），凶兆
+n 预示（不好事情），凶兆 [fɔː'bəʊdɪŋ]
 
 = omen
 
@@ -420,9 +416,7 @@ bode well for
 
 ## forfeit
 
-['fɔːfɪt]
-
-n 没收物 vt 没收（常因为违法违约）
+n 没收物 vt 没收（常因为违法违约）['fɔːfɪt]
 
 feit from fact 做
 
@@ -454,9 +448,7 @@ counter = against 相反
 
 #### confiscate
 
-['kɒnfɪskeɪt]
-
-v 没收，充公，归为公众所有
+v 没收，充公，归为公众所有 ['kɒnfɪskeɪt]
 
 fisc from financial
 
