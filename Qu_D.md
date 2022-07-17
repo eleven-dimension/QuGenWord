@@ -304,7 +304,7 @@ v 绑架 [əb'dʌkt]
 
 引导走，引导远离
 
-abuct women and childre
+abduct women and children
 
 #### aqueduct
 
@@ -360,11 +360,11 @@ a 正确的 = inerrancy n [ɪn,fælə'bɪləti]
 
 #### fallacy
 
-n 谬论，错误说法
+n 谬论，错误说法 ['fæləsɪ]
 
 #### falsify
 
-v 篡改 ['fæləsɪ]
+v 篡改
 
 弄错
 
