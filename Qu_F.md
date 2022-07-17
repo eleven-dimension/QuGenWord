@@ -1,3 +1,105 @@
+- [fallow](#fallow)
+  * [SIMILAR](#similar)
+    + [callow](#callow)
+    + [wallow](#wallow)
+    + [hallow](#hallow)
+- [fawn](#fawn)
+  * [SYN](#syn)
+    + [adulate](#adulate)
+    + [cringe](#cringe)
+    + [flatter](#flatter)
+    + [toady](#toady)
+    + [sycophant](#sycophant)
+- [feign](#feign)
+  * [SYN](#syn-1)
+    + [simulate](#simulate)
+- [flag](#flag)
+  * [fl-](#fl-)
+    + [flee](#flee)
+    + [fling](#fling)
+    + [flit](#flit)
+    + [fleeting](#fleeting)
+    + [flinch](#flinch)
+    + [flexible](#flexible)
+- [flamboyant](#flamboyant)
+  * [SYN](#syn-2)
+    + [ostentatious](#ostentatious)
+    + [showy](#showy)
+- [flaunt](#flaunt)
+  * [-aunt](#-aunt)
+    + [flaunt](#flaunt-1)
+    + [gaunt](#gaunt)
+    + [daunt](#daunt)
+    + [vaunt](#vaunt)
+    + [taunt](#taunt)
+    + [haunt](#haunt)
+    + [jaunt](#jaunt)
+    + [saunter](#saunter)
+- [flip](#flip)
+    + [flippant](#flippant)
+- [flock](#flock)
+  * [SYN](#syn-3)
+    + [herd](#herd)
+    + [school](#school)
+    + [shoal](#shoal)
+    + [pack](#pack)
+    + [pride](#pride)
+    + [swarm](#swarm)
+    + [gaggle](#gaggle)
+- [flout](#flout)
+  * [out-](#out-)
+    + [tout](#tout)
+    + [snout](#snout)
+    + [rout](#rout)
+    + [stout](#stout)
+- [foliage](#foliage)
+  * [foli-](#foli-)
+    + [defoliate](#defoliate)
+    + [foliate](#foliate)
+- [forestall](#forestall)
+  * [fore-](#fore-)
+    + [foreshadow](#foreshadow)
+    + [foresight](#foresight)
+    + [forebear](#forebear)
+    + [foreboding](#foreboding)
+- [forfeit](#forfeit)
+  * [-feit](#-feit)
+    + [surfeit](#surfeit)
+    + [counterfeit](#counterfeit)
+  * [SYN](#syn-4)
+    + [confiscate](#confiscate)
+- [forger](#forger)
+- [fossilize](#fossilize)
+  * [oss-](#oss-)
+    + [ossify](#ossify)
+    + [ossuary](#ossuary)
+- [fraud](#fraud)
+  * [-fraud](#-fraud)
+    + [defraud](#defraud)
+    + [fraudulent](#fraudulent)
+  * [SYN](#syn-5)
+    + [delude](#delude)
+    + [deceive](#deceive)
+- [frivolity](#frivolity)
+  * [vol-](#vol-)
+    + [volition](#volition)
+- [fugitive](#fugitive)
+  * [fug-](#fug-)
+    + [centrifugal force](#centrifugal-force)
+    + [fugacious](#fugacious)
+- [futile](#futile)
+  * [SIMILAR](#similar-1)
+    + [fertile](#fertile)
+  * [fut-](#fut-)
+    + [refute](#refute)
+    + [suffuse](#suffuse)
+    + [profuse](#profuse)
+    + [diffuse](#diffuse)
+    + [infuse](#infuse)
+    + [effuse](#effuse)
+    + [effusive](#effusive)
+    + [fuddle](#fuddle)
+
 ## fallow
 
 a n 休耕的，休耕地 ['fæləʊ]
@@ -350,7 +452,7 @@ a 肥胖的
 
 ## foliage
 
-n 枝叶树叶
+n 枝叶树叶 ['fəʊlɪɪdʒ]
 
 foli = leaf 倒着写
 
@@ -457,3 +559,175 @@ fiscal 财政的 a
 fisc from purse
 
 confiscate  一起归为财政
+
+## forger
+
+n 伪造者，铁匠
+
+forge v 伪造（书面文字），铸造
+
+fake v / n 伪造
+
+counterfeit fact forge from fact 做
+
+## fossilize
+
+vt 使成为化石 ['fɒs(ə)laɪz]
+
+fossil n 化石
+
+oss from bone
+
+### oss-
+
+from ashes
+
+#### ossify
+
+vt 骨化；使思想僵化
+
+#### ossuary
+
+n  骨灰盒 ['ɒsjʊərɪ]
+
+## fraud
+
+n 欺骗，一般官方对公众
+
+词源 弗洛伊德
+
+economic fraud
+
+### -fraud
+
+#### defraud
+
+v 欺骗 [dɪ'frɔːd]
+
+de 加强
+
+#### fraudulent
+
+a 欺骗的 ['frɔːdjʊl(ə)nt]
+
+### SYN
+
+#### delude
+
+vt 欺骗 [dɪ'l(j)uːd]
+
+#### deceive
+
+## frivolity
+
+n 轻浮 [frɪ'vɒlɪtɪ]
+
+frivolous a
+
+fri = free 
+
+vol = will 如volunteer
+
+自由的意愿
+
+### vol-
+
+#### volition
+
+n 意志力 [və'lɪʃ(ə)n]
+
+## fugitive
+
+n 逃亡者 ['fjuːdʒɪtɪv]
+
+refugee n 难民 [refjʊ'dʒiː]
+
+fug = escape 逃亡
+
+### fug-
+
+#### centrifugal force
+
+离心力 [,sentrɪ'fjuːg(ə)l]
+
+#### fugacious
+
+a 易逃走的 [fjʊ'geɪʃəs]
+
+## futile
+
+a  ['fjuːtaɪl] 无用的
+
+联想 fu few 几乎没有
+
+### SIMILAR
+
+#### fertile
+
+a 肥沃的 ['fɜːtaɪl]
+
+fertile 和 futile 接近反义
+
+fut/fus/fud = pour 倾倒
+
+refuse 拒绝 倒回去
+
+confuse 困惑 一起倒知识
+
+### fut-
+
+#### refute
+
+v 反驳 [rɪ'fjuːt]
+
+倒回去
+
+#### suffuse
+
+vi 充满（某种情感）[sə'fjuːz]
+
+be suffused with
+
+在下面倒
+
+suffice 充足
+
+#### profuse
+
+a 充沛的；浪费的 [prə'fjuːs]
+
+不断往前流
+
+She shed profuse tears.
+
+#### diffuse
+
+v 气体扩散
+
+diff = dis 分散
+
+倒开
+
+#### infuse
+
+v 灌输
+
+往里倒
+
+#### effuse
+
+v 流出 [ɪ'fjuːz]
+
+#### effusive
+
+a 热情洋溢的 [ɪ'fjuːsɪv]
+
+情感外流的
+
+#### fuddle
+
+v 使喝醉；迷惑 ['fʌd(ə)l]
+
+反复倒酒
+
+le 反复 如 twinkle，wriggle
