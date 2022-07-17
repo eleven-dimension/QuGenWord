@@ -500,7 +500,7 @@ lu/lau means wash 洗
 
 #### dilute
 
-v 冲淡稀释
+v 冲淡稀释 [daɪ'l(j)ut]
 
 di 分开 divorce 离婚
 
@@ -662,6 +662,8 @@ deportation n 驱逐
 
 de = off 出去远离 port 港口
 
+port词根 carry 搬
+
 transport 在港口之间搬运
 
 ### port-
@@ -688,7 +690,7 @@ lark 嬉戏 vi
 
 ## destitution
 
-n 穷困，缺乏
+n 穷困，缺乏 [,destɪ'tʃuːʃn]
 
 stitute 站立
 
@@ -764,7 +766,7 @@ n indigence
 
 ## deteriorate 
 
-v 恶化
+v 恶化 [dɪ'tɪərɪəreɪt]
 
 syn worsen，exacerbate
 
