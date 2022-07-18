@@ -1,0 +1,4 @@
+#### internecine
+
+ [,ɪntə'niːsaɪn]
+
