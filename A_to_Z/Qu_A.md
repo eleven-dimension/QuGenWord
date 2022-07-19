@@ -1456,7 +1456,268 @@ gluttonous a. ['glʌtnəs]
 
 glutinous a. glue 胶水一样的，粘稠的
 
+## assiduous
+
+a 勤奋的，刻苦的 [ə'sɪdjʊəs]
+
+industrious a 勤奋的
+
+diligent a 勤奋的
+
+sid/sed from sit
+
+一直坐着学习
+
+反义 slothful a
+
+### sid-
+
+#### insidious
+
+a 坐在里面 = 阴险的，暗中危害的 [ɪn'sɪdɪəs]
+
+#### subside
+
+v 坐下来 = 平息，安抚
+
+劝架，坐坐坐！
+
+#### preside
+
+vi 主持，掌管 [prɪ'zaɪd]
+
+preside over the meeting 主持
+
+president
+
+#### dissident
+
+a n ['dɪsɪd(ə)nt]
+
+dis = apart 如 dispurse 付钱
+
+分开坐着 = n 持不同意见的人  a 反对的
+
+#### sedentary
+
+a 久坐的
+
+#### sedulous
+
+a 充满着坐 = 勤奋的 ['sedjʊləs]
+
+= assiduous
+
+#### supersede
+
+super 上
+
+v 坐在上面，把你坐下去 = 取代
+
+## assimilate
+
+v 吸收，理解，同化
+
+simil from similar
+
+越来越相似
+
+simil / simul / semble = same 
+
+syn/sym = same 如 sympathy 同情
+
+### simul-
+
+#### simultaneous
+
+a 同步的 [,sɪm(ə)l'teɪnɪəs]
+
+simultaneous interpreter 同声传译者
+
+#### dissimulate
+
+v 掩饰，伪装
+
+dis 加强
+
+弄得像
+
+#### dissemble
+
+v 掩饰，伪装 [dɪ'sɪmjʊleɪt]
+
+dissimulate/dissemble myself as a beggar
+
+#### verisimilar
+
+a 逼真的 [,verɪ'sɪmɪlə]
+
+veri = true 真实的
+
+非常像啊
+
+## attenuate
+
+v 削弱 [ə'tenjʊeɪt]
+
+反义 reinforce 增强
+
+tenu = thin 薄
+
+### tenu-
+
+#### tenuous
+
+a 薄的，稀薄的；无力的
+
+The air 10 miles above the earth is very tenuous.
+
+tenuous evidence 无力的证据
+
+cogent a 有说服力的
+
+#### attenuate
+
+v 使变薄 = 削弱
+
+#### extenuate
+
+v 罪行变薄 = 减轻罪行 [ɪk'stenjʊeɪt]
+
+ex 加强
+
+## augment
+
+v 增加 [ɔːg'ment]
+
+== increase
+
+形近 argument
+
+增加争吵
+
+随着时间增加，男女朋友争吵分手
+
+aug/auc/aud = increase 
+
+aud from add
+
+如 auction 拍卖，价格越来越高
+
+### aug-
+
+#### august
+
+a 威严的 [ɔ:ˈgʌst]
+
+前罗马皇帝奥古斯都大帝
+
+不满八月只有30天
+
+从2月拽出来一天加进来
+
+#### audacious
+
+a 厚颜无耻的，大胆鲁莽的 [ɔː'deɪʃəs]
+
+acious 多
+
+胆量增加
+
+= effrontery n 脸向外
+
+loquacious 话多的 
+
+loq = log 说
+
+### SYN
+
+#### accretion
+
+n 添加物 [ə'kriːʃ(ə)n] 
+
+noun of accrue
+
+cre from create
+
+#### accrue
+
+v 自然地增加（如钱放银行）[ə'kruː]
+
+#### mount
+
+v 登上 mount a horse
+
+v 增加 The medicine fee is mounting year by year.
+
+### mount-
+
+#### paramount
+
+a 至高无上的，最重要的（无比较级）
+
+para 在上面 如 paradise
+
+#### surmount
+
+vt 克服
+
+sur- 
+
+​	1. on 如 surface 
+
+​	2. more 如 survive
+
+insurmountable a 不可战胜的
+
+## austere
+
+a 简朴的；严峻的；严厉的；苦行的 [ɒ'stɪə]
+
+ascetic a 禁欲的
+
+stern 严格严厉 谐音：死瞪着你
+
+反义 decorated 装饰的
+
+## authentic
+
+a 可信的，真正的 [ɔː'θentɪk]
+
+from author
+
+真正出自作家手笔 = 真迹的
+
+### SYN
+
+真
+
+#### veracious
+
+ver- 真 如very 真好 verisimilar
+
+### ANT
+
+#### bogus
+
+a 假的，冒牌的 ['bəʊgəs]
+
+a bogus doctor 庸医
+
+Bogus 假钞机名字
+
+fake 假的 from fact 做作
+
+#### phony
+
+假的，冒牌的
+
+phon 声音 如 phone 手机
+
+耳听为虚
+
 ## avaricious 
+
 [ævə'rɪʃəs] a 贪婪的
 
 avarice n ['æv(ə)rɪs]
