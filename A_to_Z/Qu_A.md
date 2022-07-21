@@ -416,6 +416,10 @@ total **abstinence** from strong drink
 
 abst/absc 远离 (from ab-)
 
+tain 保持
+
+远离保持着的习惯 = 禁绝放弃
+
 ### abst-
 #### abstract 
 抽拉出来，概括
