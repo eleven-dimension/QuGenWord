@@ -2,6 +2,7 @@ abjure
 adjure
 conjure
 perjure
+perjury
 espouse
 spawn
 spouse
