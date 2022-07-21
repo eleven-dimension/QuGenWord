@@ -1680,7 +1680,7 @@ a 简朴的；严峻的；严厉的；苦行的 [ɒ'stɪə]
 
 ascetic a 禁欲的
 
-stern 严格严厉 谐音：死瞪着你
+stere from stern 严格严厉 谐音：死瞪着你
 
 反义 decorated 装饰的
 
@@ -1753,7 +1753,7 @@ herbivore ['hɜːbɪvɔː] 食草动物
 carnivore ['kɑːnɪvɔː] 食肉动物
 
 #### covetous 
-a 贪婪的 
+a 贪婪的 [ˈkʌvətəs]
 
 全部被我cover
 
