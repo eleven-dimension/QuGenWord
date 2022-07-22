@@ -169,11 +169,11 @@ in 否定
 
 #### baleful
 
-a 恶毒的 
+a 恶毒的 ['beɪlfʊl]
 
 #### bale
 
-n 大包，恶毒 ['beɪlfʊl]
+n 大包，恶毒
 
 ## barricade
 
